@@ -5,7 +5,7 @@ module ZipCodes
 
   class << self
     def identify(code)
-      if ('A'..'Z').include?(code[0].upcase)
+      if ('A'..'Z').to_a.include?(code[0].upcase)
         db[code[0..2].upcase]
       else
         db[code]
