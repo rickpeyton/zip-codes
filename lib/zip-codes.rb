@@ -20,7 +20,7 @@ module ZipCodes
       end
     end
 
-    def db
+    def ca_db
       @db ||= begin
         this_file = File.expand_path(File.dirname(__FILE__))
         ca_data = File.join(this_file, 'data', 'CA.yml')
