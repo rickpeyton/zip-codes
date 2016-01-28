@@ -6,7 +6,7 @@ module ZipCodes
   class << self
     def identify(code)
       if ('A'..'Z').include?(code[0].upcase)
-        ca_db[code[0..2].upcase]
+        db[code[0..2].upcase]
       else
         db[code]
       end
@@ -15,16 +15,8 @@ module ZipCodes
     def db
       @db ||= begin
         this_file = File.expand_path(File.dirname(__FILE__))
-        us_data = File.join(this_file, 'data', 'US.yml')
-        YAML.load(File.open(us_data))
-      end
-    end
-
-    def ca_db
-      @db ||= begin
-        this_file = File.expand_path(File.dirname(__FILE__))
-        ca_data = File.join(this_file, 'data', 'CA.yml')
-        YAML.load(File.open(ca_data))
+        all_data = File.join(this_file, 'data', 'USCA.yml')
+        YAML.load(File.open(all_data))
       end
     end
 
