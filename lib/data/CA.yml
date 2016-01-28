@@ -1,0 +1,8201 @@
+---
+'T0A':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Eastern Alberta
+	:time_zone: Unknown
+'T0B':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Wainwright Region
+	:time_zone: Unknown
+'T0C':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Central Alberta
+	:time_zone: Unknown
+'T0E':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Western Alberta
+	:time_zone: Unknown
+'T0G':
+	:state_code: AB
+	:state_name: Alberta
+	:city: North Central Alberta
+	:time_zone: Unknown
+'T0H':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Northwestern Alberta
+	:time_zone: Unknown
+'T0J':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Southeastern Alberta
+	:time_zone: Unknown
+'T0K':
+	:state_code: AB
+	:state_name: Alberta
+	:city: International Border Region
+	:time_zone: Unknown
+'T0L':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Kananaskis Country
+	:time_zone: Unknown
+'T0M':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Central Foothills
+	:time_zone: Unknown
+'T0P':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Northeastern Alberta
+	:time_zone: Unknown
+'T0V':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Remote Northeast
+	:time_zone: Unknown
+'T1A':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Medicine Hat Central
+	:time_zone: Unknown
+'T1B':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Medicine Hat South
+	:time_zone: Unknown
+'T1C':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Medicine Hat North
+	:time_zone: Unknown
+'T1G':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Taber
+	:time_zone: Unknown
+'T1H':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Lethbridge North
+	:time_zone: Unknown
+'T1J':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Lethbridge West and Central
+	:time_zone: Unknown
+'T1K':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Lethbridge Southeast
+	:time_zone: Unknown
+'T1L':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Banff
+	:time_zone: Unknown
+'T1M':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Coaldale
+	:time_zone: Unknown
+'T1P':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Strathmore
+	:time_zone: Unknown
+'T1R':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Brooks
+	:time_zone: Unknown
+'T1S':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Okotoks
+	:time_zone: Unknown
+'T1V':
+	:state_code: AB
+	:state_name: Alberta
+	:city: High River
+	:time_zone: Unknown
+'T1W':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Canmore
+	:time_zone: Unknown
+'T1X':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Chestermere
+	:time_zone: Unknown
+'T1Y':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T1Z':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Rocky View
+	:time_zone: Unknown
+'T2A':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T2B':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T2C':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T2E':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T2G':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T2H':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T2J':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T2K':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T2L':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T2M':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T2N':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T2P':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T2R':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T2S':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T2T':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary South
+	:time_zone: Unknown
+'T2V':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T2W':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T2X':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T2Y':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T2Z':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T3A':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T3B':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T3C':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T3E':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T3G':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T3H':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T3J':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T3K':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T3L':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T3M':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T3N':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary Northeast
+	:time_zone: Unknown
+'T3P':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T3R':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary Northwest
+	:time_zone: Unknown
+'T3S':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Calgary
+	:time_zone: Unknown
+'T3Z':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Redwood Meadows
+	:time_zone: Unknown
+'T4A':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Airdrie East
+	:time_zone: Unknown
+'T4B':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Airdrie West
+	:time_zone: Unknown
+'T4C':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Cochrane
+	:time_zone: Unknown
+'T4E':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Red Deer County
+	:time_zone: Unknown
+'T4G':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Innisfail
+	:time_zone: Unknown
+'T4H':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Olds
+	:time_zone: Unknown
+'T4J':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Ponoka
+	:time_zone: Unknown
+'T4L':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Lacombe
+	:time_zone: Unknown
+'T4N':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Red Deer Central
+	:time_zone: Unknown
+'T4P':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Red Deer North
+	:time_zone: Unknown
+'T4R':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Red Deer South
+	:time_zone: Unknown
+'T4S':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Sylvan Lake
+	:time_zone: Unknown
+'T4T':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Rocky Mountain House
+	:time_zone: Unknown
+'T4V':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Camrose
+	:time_zone: Unknown
+'T4X':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Beaumont
+	:time_zone: Unknown
+'T5A':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T5B':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T5C':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T5E':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T5G':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T5H':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T5J':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T5K':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T5L':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T5M':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T5N':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T5P':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T5R':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T5S':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T5T':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton West
+	:time_zone: Unknown
+'T5V':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T5W':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T5X':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T5Y':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T5Z':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T6A':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T6B':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T6C':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T6E':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T6G':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T6H':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T6J':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T6K':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T6L':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T6M':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton Southwest
+	:time_zone: Unknown
+'T6N':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T6P':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T6R':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T6S':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T6T':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T6V':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T6W':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T6X':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edmonton
+	:time_zone: Unknown
+'T7A':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Drayton Valley
+	:time_zone: Unknown
+'T7E':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Edson
+	:time_zone: Unknown
+'T7N':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Barrhead
+	:time_zone: Unknown
+'T7P':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Westlock
+	:time_zone: Unknown
+'T7S':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Whitecourt
+	:time_zone: Unknown
+'T7V':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Hinton
+	:time_zone: Unknown
+'T7X':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Spruce Grove North
+	:time_zone: Unknown
+'T7Y':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Spruce Grove South
+	:time_zone: Unknown
+'T7Z':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Stony Plain
+	:time_zone: Unknown
+'T8A':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Sherwood Park West
+	:time_zone: Unknown
+'T8B':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Sherwood Park Outer Southwest
+	:time_zone: Unknown
+'T8C':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Sherwood Park Inner Southwest
+	:time_zone: Unknown
+'T8E':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Sherwood Park Central
+	:time_zone: Unknown
+'T8G':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Sherwood Park East
+	:time_zone: Unknown
+'T8H':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Sherwood Park Northwest
+	:time_zone: Unknown
+'T8L':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Fort Saskatchewan
+	:time_zone: Unknown
+'T8N':
+	:state_code: AB
+	:state_name: Alberta
+	:city: St. Albert
+	:time_zone: Unknown
+'T8R':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Morinville
+	:time_zone: Unknown
+'T8S':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Peace River
+	:time_zone: Unknown
+'T8T':
+	:state_code: AB
+	:state_name: Alberta
+	:city: St. Albert
+	:time_zone: Unknown
+'T8V':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Grande Prairie Central
+	:time_zone: Unknown
+'T8W':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Grande Prairie South
+	:time_zone: Unknown
+'T8X':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Grande Prairie East
+	:time_zone: Unknown
+'T9A':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Wetaskiwin
+	:time_zone: Unknown
+'T9C':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Vegreville
+	:time_zone: Unknown
+'T9E':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Leduc
+	:time_zone: Unknown
+'T9G':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Devon
+	:time_zone: Unknown
+'T9H':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Fort McMurray Outer Central
+	:time_zone: Unknown
+'T9J':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Fort McMurray Inner Central
+	:time_zone: Unknown
+'T9K':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Fort McMurray Northwest
+	:time_zone: Unknown
+'T9M':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Cold Lake
+	:time_zone: Unknown
+'T9N':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Bonnyville
+	:time_zone: Unknown
+'T9S':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Athabasca
+	:time_zone: Unknown
+'T9V':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Lloydminster
+	:time_zone: Unknown
+'T9W':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Wainwright
+	:time_zone: Unknown
+'T9X':
+	:state_code: AB
+	:state_name: Alberta
+	:city: Vermilion
+	:time_zone: Unknown
+'V0A':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Upper Columbia Region
+	:time_zone: Unknown
+'V0B':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: East Kootenays
+	:time_zone: Unknown
+'V0C':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Northern British Columbia
+	:time_zone: Unknown
+'V0E':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Central Okanagan and High Country
+	:time_zone: Unknown
+'V0G':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: West Kootenays
+	:time_zone: Unknown
+'V0H':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: South Okanagan
+	:time_zone: Unknown
+'V0J':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Omineca and Yellowhead
+	:time_zone: Unknown
+'V0K':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Cariboo and West Okanagan
+	:time_zone: Unknown
+'V0L':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Chilcotin
+	:time_zone: Unknown
+'V0M':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Harrison Lake Region
+	:time_zone: Unknown
+'V0N':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: North Island
+	:time_zone: Unknown
+'V0P':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: North Central Island and Bute Inlet Region
+	:time_zone: Unknown
+'V0R':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Central Island
+	:time_zone: Unknown
+'V0S':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Juan de Fuca Shore
+	:time_zone: Unknown
+'V0T':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Inside Passage and the Queen Charlottes
+	:time_zone: Unknown
+'V0V':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Lower Skeena
+	:time_zone: Unknown
+'V0W':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Atlin Region
+	:time_zone: Unknown
+'V0X':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Similkameen
+	:time_zone: Unknown
+'V1A':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Kimberley
+	:time_zone: Unknown
+'V1B':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vernon East
+	:time_zone: Unknown
+'V1C':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Cranbrook
+	:time_zone: Unknown
+'V1E':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Salmon Arm
+	:time_zone: Unknown
+'V1G':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Dawson Creek
+	:time_zone: Unknown
+'V1H':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vernon West
+	:time_zone: Unknown
+'V1J':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Fort St. John
+	:time_zone: Unknown
+'V1K':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Merritt
+	:time_zone: Unknown
+'V1L':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Nelson
+	:time_zone: Unknown
+'V1M':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Langley Township North
+	:time_zone: Unknown
+'V1N':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Castlegar
+	:time_zone: Unknown
+'V1P':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Kelowna East
+	:time_zone: Unknown
+'V1R':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Trail
+	:time_zone: Unknown
+'V1S':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Kamloops Southwest
+	:time_zone: Unknown
+'V1T':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vernon Central
+	:time_zone: Unknown
+'V1V':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Kelowna North
+	:time_zone: Unknown
+'V1W':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Kelowna Southwest
+	:time_zone: Unknown
+'V1X':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Kelowna East Central
+	:time_zone: Unknown
+'V1Y':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Kelowna Central
+	:time_zone: Unknown
+'V1Z':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Kelowna West
+	:time_zone: Unknown
+'V2A':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Penticton
+	:time_zone: Unknown
+'V2B':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Kamloops Northwest
+	:time_zone: Unknown
+'V2C':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Kamloops Central and Southeast
+	:time_zone: Unknown
+'V2E':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Kamloops South and West
+	:time_zone: Unknown
+'V2G':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Williams Lake
+	:time_zone: Unknown
+'V2H':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Kamloops North
+	:time_zone: Unknown
+'V2J':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Quesnel
+	:time_zone: Unknown
+'V2K':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Prince George North
+	:time_zone: Unknown
+'V2L':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Prince George East Central
+	:time_zone: Unknown
+'V2M':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Prince George West Central
+	:time_zone: Unknown
+'V2N':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Prince George South
+	:time_zone: Unknown
+'V2P':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Chilliwack Central
+	:time_zone: Unknown
+'V2R':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Chilliwack West
+	:time_zone: Unknown
+'V2S':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Abbotsford Southeast
+	:time_zone: Unknown
+'V2T':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Abbotsford Southwest
+	:time_zone: Unknown
+'V2V':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Mission East
+	:time_zone: Unknown
+'V2W':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Maple Ridge East
+	:time_zone: Unknown
+'V2X':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Maple Ridge West
+	:time_zone: Unknown
+'V2Y':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Langley Township Northwest
+	:time_zone: Unknown
+'V2Z':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Langley Township Southwest
+	:time_zone: Unknown
+'V3A':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Langley City
+	:time_zone: Unknown
+'V3B':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Port Coquitlam Central
+	:time_zone: Unknown
+'V3C':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Port Coquitlam South
+	:time_zone: Unknown
+'V3E':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Port Coquitlam North
+	:time_zone: Unknown
+'V3G':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Abbotsford East
+	:time_zone: Unknown
+'V3H':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Port Moody
+	:time_zone: Unknown
+'V3J':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Coquitlam North
+	:time_zone: Unknown
+'V3K':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Coquitlam South
+	:time_zone: Unknown
+'V3L':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: New Westminster Northeast
+	:time_zone: Unknown
+'V3M':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: New Westminster Southwest
+	:time_zone: Unknown
+'V3N':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Burnaby
+	:time_zone: Unknown
+'V3R':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Surrey North
+	:time_zone: Unknown
+'V3S':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Surrey East
+	:time_zone: Unknown
+'V3T':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Surrey Inner Northwest
+	:time_zone: Unknown
+'V3V':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Surrey Outer Northwest
+	:time_zone: Unknown
+'V3W':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Surrey Upper West
+	:time_zone: Unknown
+'V3X':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Surrey Lower West
+	:time_zone: Unknown
+'V3Y':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Pitt Meadows
+	:time_zone: Unknown
+'V4A':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Surrey Southwest
+	:time_zone: Unknown
+'V4B':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: White Rock
+	:time_zone: Unknown
+'V4C':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Delta Northeast
+	:time_zone: Unknown
+'V4E':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Delta East
+	:time_zone: Unknown
+'V4G':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Delta East Central
+	:time_zone: Unknown
+'V4K':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Delta Central
+	:time_zone: Unknown
+'V4L':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Delta Southeast
+	:time_zone: Unknown
+'V4M':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Delta Southwest
+	:time_zone: Unknown
+'V4N':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Surrey Northeast
+	:time_zone: Unknown
+'V4P':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Surrey South
+	:time_zone: Unknown
+'V4R':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Maple Ridge Northwest
+	:time_zone: Unknown
+'V4S':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Mission West
+	:time_zone: Unknown
+'V4T':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Westbank
+	:time_zone: Unknown
+'V4V':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Winfield
+	:time_zone: Unknown
+'V4W':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Langley Township East
+	:time_zone: Unknown
+'V4X':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Abbotsford West
+	:time_zone: Unknown
+'V4Z':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Chilliwack East
+	:time_zone: Unknown
+'V5A':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Burnaby
+	:time_zone: Unknown
+'V5B':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Burnaby
+	:time_zone: Unknown
+'V5C':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Burnaby
+	:time_zone: Unknown
+'V5E':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Burnaby
+	:time_zone: Unknown
+'V5G':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Burnaby
+	:time_zone: Unknown
+'V5H':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Burnaby
+	:time_zone: Unknown
+'V5J':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Burnaby
+	:time_zone: Unknown
+'V5K':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V5L':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V5M':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V5N':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V5P':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V5R':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V5S':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V5T':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V5V':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V5W':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V5X':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V5Y':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V5Z':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V6A':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V6B':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V6C':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V6E':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V6G':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V6H':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V6J':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V6K':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V6L':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V6M':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V6N':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V6P':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V6R':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V6S':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V6T':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V6V':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Richmond Northeast
+	:time_zone: Unknown
+'V6W':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Richmond Southeast
+	:time_zone: Unknown
+'V6X':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Richmond North
+	:time_zone: Unknown
+'V6Y':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Richmond Central
+	:time_zone: Unknown
+'V6Z':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V7A':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Richmond South
+	:time_zone: Unknown
+'V7B':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Richmond
+	:time_zone: Unknown
+'V7C':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Richmond West
+	:time_zone: Unknown
+'V7E':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Richmond Southwest
+	:time_zone: Unknown
+'V7G':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: North Vancouver Outer East
+	:time_zone: Unknown
+'V7H':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: North Vancouver Inner East
+	:time_zone: Unknown
+'V7J':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: North Vancouver East Central
+	:time_zone: Unknown
+'V7K':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: North Vancouver North Central
+	:time_zone: Unknown
+'V7L':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: North Vancouver South Central
+	:time_zone: Unknown
+'V7M':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: North Vancouver Southwest Central
+	:time_zone: Unknown
+'V7N':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: North Vancouver Northwest Central
+	:time_zone: Unknown
+'V7P':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: North Vancouver Southwest
+	:time_zone: Unknown
+'V7R':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: North Vancouver Northwest
+	:time_zone: Unknown
+'V7S':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: West Vancouver North
+	:time_zone: Unknown
+'V7T':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: West Vancouver Southeast
+	:time_zone: Unknown
+'V7V':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: West Vancouver South
+	:time_zone: Unknown
+'V7W':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: West Vancouver West
+	:time_zone: Unknown
+'V7X':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V7Y':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Vancouver
+	:time_zone: Unknown
+'V8A':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Powell River
+	:time_zone: Unknown
+'V8B':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Squamish
+	:time_zone: Unknown
+'V8C':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Kitimat
+	:time_zone: Unknown
+'V8G':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Terrace
+	:time_zone: Unknown
+'V8J':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Prince Rupert
+	:time_zone: Unknown
+'V8K':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Saltspring Island
+	:time_zone: Unknown
+'V8L':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Sidney
+	:time_zone: Unknown
+'V8M':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Central Saanich
+	:time_zone: Unknown
+'V8N':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Saanich East
+	:time_zone: Unknown
+'V8P':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Saanich Southeast
+	:time_zone: Unknown
+'V8R':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Oak Bay North
+	:time_zone: Unknown
+'V8S':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Oak Bay South
+	:time_zone: Unknown
+'V8T':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Victoria North
+	:time_zone: Unknown
+'V8V':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Victoria South
+	:time_zone: Unknown
+'V8W':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Victoria Central British Columbia Provincial Government
+	:time_zone: Unknown
+'V8X':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Saanich South
+	:time_zone: Unknown
+'V8Y':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Saanich North
+	:time_zone: Unknown
+'V8Z':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Saanich Central
+	:time_zone: Unknown
+'V9A':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Esquimalt
+	:time_zone: Unknown
+'V9B':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Highlands
+	:time_zone: Unknown
+'V9C':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Metchosin
+	:time_zone: Unknown
+'V9E':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Saanich West
+	:time_zone: Unknown
+'V9G':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Ladysmith
+	:time_zone: Unknown
+'V9H':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Campbell River Outskirts
+	:time_zone: Unknown
+'V9J':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Courtenay Northern Outskirts
+	:time_zone: Unknown
+'V9K':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Qualicum Beach
+	:time_zone: Unknown
+'V9L':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Duncan
+	:time_zone: Unknown
+'V9M':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Comox
+	:time_zone: Unknown
+'V9N':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Courtenay Central
+	:time_zone: Unknown
+'V9P':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Parksville
+	:time_zone: Unknown
+'V9R':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Nanaimo South
+	:time_zone: Unknown
+'V9S':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Nanaimo Central
+	:time_zone: Unknown
+'V9T':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Nanaimo North
+	:time_zone: Unknown
+'V9V':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Nanaimo Northwest
+	:time_zone: Unknown
+'V9W':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Campbell River Central
+	:time_zone: Unknown
+'V9X':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Cedar
+	:time_zone: Unknown
+'V9Y':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Port Alberni
+	:time_zone: Unknown
+'V9Z':
+	:state_code: BC
+	:state_name: British Columbia
+	:city: Sooke
+	:time_zone: Unknown
+'R0A':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Southeastern Manitoba
+	:time_zone: Unknown
+'R0B':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Northern Manitoba
+	:time_zone: Unknown
+'R0C':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: North Interlake
+	:time_zone: Unknown
+'R0E':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Eastern Manitoba
+	:time_zone: Unknown
+'R0G':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: South Central Manitoba
+	:time_zone: Unknown
+'R0H':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: South Interlake
+	:time_zone: Unknown
+'R0J':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Riding Mountain
+	:time_zone: Unknown
+'R0K':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Brandon Region
+	:time_zone: Unknown
+'R0L':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Western Manitoba
+	:time_zone: Unknown
+'R0M':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Southwestern Manitoba
+	:time_zone: Unknown
+'R1A':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Selkirk
+	:time_zone: Unknown
+'R1B':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Lockport
+	:time_zone: Unknown
+'R1N':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Portage la Prairie
+	:time_zone: Unknown
+'R2C':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R2E':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: East St. Paul
+	:time_zone: Unknown
+'R2G':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R2H':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R2J':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R2K':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R2L':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R2M':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R2N':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R2P':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R2R':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R2V':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R2W':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R2X':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R2Y':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R3A':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R3B':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R3C':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg  Manitoba Provincial Government
+	:time_zone: Unknown
+'R3E':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R3G':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R3H':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R3J':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R3K':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R3L':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R3M':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R3N':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R3P':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R3R':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R3S':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R3T':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R3V':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R3W':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R3X':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R3Y':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winnipeg
+	:time_zone: Unknown
+'R4A':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: West St. Paul
+	:time_zone: Unknown
+'R4H':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Headingley East
+	:time_zone: Unknown
+'R4J':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Headingley West
+	:time_zone: Unknown
+'R4K':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Cartier
+	:time_zone: Unknown
+'R4L':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: St. Francois Xavier
+	:time_zone: Unknown
+'R5A':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: St. Adolphe
+	:time_zone: Unknown
+'R5G':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Steinbach
+	:time_zone: Unknown
+'R5H':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Ste. Anne
+	:time_zone: Unknown
+'R6M':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Morden
+	:time_zone: Unknown
+'R6W':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Winkler
+	:time_zone: Unknown
+'R7A':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Brandon Southeast
+	:time_zone: Unknown
+'R7B':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Brandon Southwest
+	:time_zone: Unknown
+'R7C':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Brandon North
+	:time_zone: Unknown
+'R7N':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Dauphin
+	:time_zone: Unknown
+'R8A':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Flin Flon
+	:time_zone: Unknown
+'R8N':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: Thompson
+	:time_zone: Unknown
+'R9A':
+	:state_code: MB
+	:state_name: Manitoba
+	:city: The Pas
+	:time_zone: Unknown
+'E1A':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Dieppe Moncton East
+	:time_zone: Unknown
+'E1B':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Riverview
+	:time_zone: Unknown
+'E1C':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Moncton Central
+	:time_zone: Unknown
+'E1E':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Moncton West
+	:time_zone: Unknown
+'E1G':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Moncton Northwest
+	:time_zone: Unknown
+'E1H':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Lakeville
+	:time_zone: Unknown
+'E1J':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Coverdale
+	:time_zone: Unknown
+'E1N':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Miramichi South
+	:time_zone: Unknown
+'E1V':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Miramichi North
+	:time_zone: Unknown
+'E1W':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Caraquet
+	:time_zone: Unknown
+'E1X':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Tracadie-Sheila
+	:time_zone: Unknown
+'E2A':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Bathurst
+	:time_zone: Unknown
+'E2E':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Rothesay
+	:time_zone: Unknown
+'E2G':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Quispamsis
+	:time_zone: Unknown
+'E2H':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Saint John Northeast
+	:time_zone: Unknown
+'E2J':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Saint John East
+	:time_zone: Unknown
+'E2K':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Saint John North
+	:time_zone: Unknown
+'E2L':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Saint John Central
+	:time_zone: Unknown
+'E2M':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Saint John West
+	:time_zone: Unknown
+'E2N':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Saint John Lakewood
+	:time_zone: Unknown
+'E2P':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Saint John Red Head
+	:time_zone: Unknown
+'E2R':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Saint John Grandview
+	:time_zone: Unknown
+'E2S':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Saint John Loch Lomond
+	:time_zone: Unknown
+'E2V':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Oromocto
+	:time_zone: Unknown
+'E3A':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Fredericton North
+	:time_zone: Unknown
+'E3B':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Fredericton South New Brunswick Provincial Government
+	:time_zone: Unknown
+'E3C':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Fredericton Southwest
+	:time_zone: Unknown
+'E3E':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Kingsclear
+	:time_zone: Unknown
+'E3G':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Fredericton
+	:time_zone: Unknown
+'E3L':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: St. Stephen
+	:time_zone: Unknown
+'E3N':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Campbellton
+	:time_zone: Unknown
+'E3V':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Edmundston
+	:time_zone: Unknown
+'E3Y':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Grand Falls Northeast
+	:time_zone: Unknown
+'E3Z':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Grand Falls Central
+	:time_zone: Unknown
+'E4A':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Bathurst
+	:time_zone: Unknown
+'E4B':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Minto
+	:time_zone: Unknown
+'E4C':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Youngs Cove
+	:time_zone: Unknown
+'E4E':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Sussex
+	:time_zone: Unknown
+'E4G':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Smiths Creek
+	:time_zone: Unknown
+'E4H':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Hillsborough
+	:time_zone: Unknown
+'E4J':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Salisbury
+	:time_zone: Unknown
+'E4K':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Dorchester
+	:time_zone: Unknown
+'E4L':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Sackville
+	:time_zone: Unknown
+'E4M':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Bayfield
+	:time_zone: Unknown
+'E4N':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Cap-Pel̩
+	:time_zone: Unknown
+'E4P':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Shediac
+	:time_zone: Unknown
+'E4R':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Cocagne
+	:time_zone: Unknown
+'E4S':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Bouctouche
+	:time_zone: Unknown
+'E4T':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Bass River
+	:time_zone: Unknown
+'E4V':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Saint-Antoine
+	:time_zone: Unknown
+'E4W':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Richibucto
+	:time_zone: Unknown
+'E4X':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: St-Louis-de-Kent
+	:time_zone: Unknown
+'E4Y':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Rogersville
+	:time_zone: Unknown
+'E4Z':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Petitcodiac
+	:time_zone: Unknown
+'E5A':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Moores Mills
+	:time_zone: Unknown
+'E5B':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: St. Andrews
+	:time_zone: Unknown
+'E5C':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: St. George
+	:time_zone: Unknown
+'E5E':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Campobello Island
+	:time_zone: Unknown
+'E5G':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Grand Manan Island
+	:time_zone: Unknown
+'E5H':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Pennfield
+	:time_zone: Unknown
+'E5J':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Lepreau
+	:time_zone: Unknown
+'E5K':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Grand Bay-Westfield
+	:time_zone: Unknown
+'E5L':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Fredericton Junction
+	:time_zone: Unknown
+'E5M':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Gagetown
+	:time_zone: Unknown
+'E5N':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Hampton
+	:time_zone: Unknown
+'E5P':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Apohaqui
+	:time_zone: Unknown
+'E5R':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: St. Martins
+	:time_zone: Unknown
+'E5S':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Kingston
+	:time_zone: Unknown
+'E5T':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Norton
+	:time_zone: Unknown
+'E5V':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Deer Island
+	:time_zone: Unknown
+'E6A':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Boiestown
+	:time_zone: Unknown
+'E6B':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Stanley
+	:time_zone: Unknown
+'E6C':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Durham Bridge
+	:time_zone: Unknown
+'E6E':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Millville
+	:time_zone: Unknown
+'E6G':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Nackawic
+	:time_zone: Unknown
+'E6H':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Canterbury
+	:time_zone: Unknown
+'E6J':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: McAdam
+	:time_zone: Unknown
+'E6K':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Harvey
+	:time_zone: Unknown
+'E6L':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Burtts Corner
+	:time_zone: Unknown
+'E7A':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Baker Brook
+	:time_zone: Unknown
+'E7B':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Saint-Jacques
+	:time_zone: Unknown
+'E7C':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Saint-Basile
+	:time_zone: Unknown
+'E7E':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Saint-Leonard
+	:time_zone: Unknown
+'E7G':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Plaster Rock
+	:time_zone: Unknown
+'E7H':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Perth-Andover
+	:time_zone: Unknown
+'E7J':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Bath
+	:time_zone: Unknown
+'E7K':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Centreville
+	:time_zone: Unknown
+'E7L':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Florenceville
+	:time_zone: Unknown
+'E7M':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Woodstock
+	:time_zone: Unknown
+'E7N':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Debec
+	:time_zone: Unknown
+'E7P':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Hartland
+	:time_zone: Unknown
+'E8A':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Saint-Quentin
+	:time_zone: Unknown
+'E8B':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Kedgwick
+	:time_zone: Unknown
+'E8C':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Dalhousie
+	:time_zone: Unknown
+'E8E':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Balmoral
+	:time_zone: Unknown
+'E8G':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Belledune
+	:time_zone: Unknown
+'E8J':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Petit-Rocher
+	:time_zone: Unknown
+'E8K':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Beresford
+	:time_zone: Unknown
+'E8L':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Allardville
+	:time_zone: Unknown
+'E8M':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Saint-Isidore
+	:time_zone: Unknown
+'E8N':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Grande-Anse
+	:time_zone: Unknown
+'E8P':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Inkerman
+	:time_zone: Unknown
+'E8R':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Paquetville
+	:time_zone: Unknown
+'E8S':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Shippagan
+	:time_zone: Unknown
+'E8T':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Lam̬que
+	:time_zone: Unknown
+'E9A':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Baie-Sainte-Anne
+	:time_zone: Unknown
+'E9B':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Blackville
+	:time_zone: Unknown
+'E9C':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Doaktown
+	:time_zone: Unknown
+'E9E':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Red Bank
+	:time_zone: Unknown
+'E9G':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Neguac
+	:time_zone: Unknown
+'E9H':
+	:state_code: NB
+	:state_name: New Brunswick
+	:city: Brantville
+	:time_zone: Unknown
+'A0A':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Southeastern Avalon Peninsula
+	:time_zone: Unknown
+'A0B':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Western Avalon Peninsula
+	:time_zone: Unknown
+'A0C':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Bonavista Peninsula
+	:time_zone: Unknown
+'A0E':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Burin Peninsula
+	:time_zone: Unknown
+'A0G':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Northeast Newfoundland
+	:time_zone: Unknown
+'A0H':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Central Newfoundland
+	:time_zone: Unknown
+'A0J':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Northern Newfoundland
+	:time_zone: Unknown
+'A0K':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Northwest Newfoundland/Eastern Labrador
+	:time_zone: Unknown
+'A0L':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Western Newfoundland
+	:time_zone: Unknown
+'A0M':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Southwestern Newfoundland
+	:time_zone: Unknown
+'A0N':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Port au Port Peninsula region
+	:time_zone: Unknown
+'A0P':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Central Labrador
+	:time_zone: Unknown
+'A0R':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: North/Western Labrador
+	:time_zone: Unknown
+'A1A':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: St. John's North
+	:time_zone: Unknown
+'A1B':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: St. John's Northwest Newfoundland & Labrador Provincial Government
+	:time_zone: Unknown
+'A1C':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: St. John's North Central
+	:time_zone: Unknown
+'A1E':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: St. John's Central
+	:time_zone: Unknown
+'A1G':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: St. John's South
+	:time_zone: Unknown
+'A1H':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: St. John's Southwest
+	:time_zone: Unknown
+'A1K':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Torbay
+	:time_zone: Unknown
+'A1L':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Paradise
+	:time_zone: Unknown
+'A1M':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Portugal Cove-St. Philips
+	:time_zone: Unknown
+'A1N':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Mount Pearl
+	:time_zone: Unknown
+'A1S':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Goulds
+	:time_zone: Unknown
+'A1V':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Gander
+	:time_zone: Unknown
+'A1W':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Manuels
+	:time_zone: Unknown
+'A1X':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Conception Bay
+	:time_zone: Unknown
+'A1Y':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Carbonear
+	:time_zone: Unknown
+'A2A':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Grand Falls
+	:time_zone: Unknown
+'A2B':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Windsor
+	:time_zone: Unknown
+'A2H':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Corner Brook
+	:time_zone: Unknown
+'A2N':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Stephenville
+	:time_zone: Unknown
+'A2V':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Labrador City
+	:time_zone: Unknown
+'A5A':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Clarenville
+	:time_zone: Unknown
+'A8A':
+	:state_code: NL
+	:state_name: Newfoundland and Labrador
+	:city: Deer Lake
+	:time_zone: Unknown
+'B0C':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: North Victoria County
+	:time_zone: Unknown
+'B0E':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: West Cape Breton Island
+	:time_zone: Unknown
+'B0H':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Canso region
+	:time_zone: Unknown
+'B0J':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Mainland east shore
+	:time_zone: Unknown
+'B0K':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Southern Northumberland Strait
+	:time_zone: Unknown
+'B0L':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Isthmus of Chignecto
+	:time_zone: Unknown
+'B0M':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Cobequid Bay north shore
+	:time_zone: Unknown
+'B0N':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Hants County
+	:time_zone: Unknown
+'B0P':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Kings County
+	:time_zone: Unknown
+'B0R':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: West Lunenburg County
+	:time_zone: Unknown
+'B0S':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: West Annapolis County
+	:time_zone: Unknown
+'B0T':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Queens County
+	:time_zone: Unknown
+'B0V':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Digby Neck
+	:time_zone: Unknown
+'B0W':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Southwest Mainland
+	:time_zone: Unknown
+'B1A':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Glace Bay
+	:time_zone: Unknown
+'B1B':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Port Morien
+	:time_zone: Unknown
+'B1C':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Louisbourg
+	:time_zone: Unknown
+'B1E':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Reserve Mines
+	:time_zone: Unknown
+'B1G':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Dominion
+	:time_zone: Unknown
+'B1H':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: New Waterford
+	:time_zone: Unknown
+'B1J':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: East Bay
+	:time_zone: Unknown
+'B1K':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Marion Bridge
+	:time_zone: Unknown
+'B1L':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Sydney Southwest
+	:time_zone: Unknown
+'B1M':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Sydney East
+	:time_zone: Unknown
+'B1N':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Sydney North
+	:time_zone: Unknown
+'B1P':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Sydney North Central
+	:time_zone: Unknown
+'B1R':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Sydney West
+	:time_zone: Unknown
+'B1S':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Sydney Central
+	:time_zone: Unknown
+'B1T':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Christmas Island
+	:time_zone: Unknown
+'B1V':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: North Sydney North
+	:time_zone: Unknown
+'B1W':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Eskasoni
+	:time_zone: Unknown
+'B1X':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Big Bras d'Or
+	:time_zone: Unknown
+'B1Y':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Alder Point
+	:time_zone: Unknown
+'B2A':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: North Sydney South Central
+	:time_zone: Unknown
+'B2C':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Iona
+	:time_zone: Unknown
+'B2E':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Loch Lomond
+	:time_zone: Unknown
+'B2G':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Antigonish
+	:time_zone: Unknown
+'B2H':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: New Glasgow
+	:time_zone: Unknown
+'B2J':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Fourchu
+	:time_zone: Unknown
+'B2N':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Truro
+	:time_zone: Unknown
+'B2R':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Waverley
+	:time_zone: Unknown
+'B2S':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Lantz
+	:time_zone: Unknown
+'B2T':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Enfield
+	:time_zone: Unknown
+'B2V':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Dartmouth Morris Lake
+	:time_zone: Unknown
+'B2W':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Dartmouth East Central
+	:time_zone: Unknown
+'B2X':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Dartmouth North Central
+	:time_zone: Unknown
+'B2Y':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Dartmouth South Central
+	:time_zone: Unknown
+'B2Z':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Dartmouth East
+	:time_zone: Unknown
+'B3A':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Dartmouth Southwest
+	:time_zone: Unknown
+'B3B':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Dartmouth Northwest
+	:time_zone: Unknown
+'B3E':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Porters Lake
+	:time_zone: Unknown
+'B3G':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Eastern Passage
+	:time_zone: Unknown
+'B3H':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Halifax Lower Harbour
+	:time_zone: Unknown
+'B3J':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Halifax Mid-Harbour Nova Scotia Provincial Government
+	:time_zone: Unknown
+'B3K':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Halifax Upper Harbour
+	:time_zone: Unknown
+'B3L':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Halifax Central
+	:time_zone: Unknown
+'B3M':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Halifax Bedford Basin
+	:time_zone: Unknown
+'B3N':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Halifax South Central
+	:time_zone: Unknown
+'B3P':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Halifax North West Arm
+	:time_zone: Unknown
+'B3R':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Halifax South
+	:time_zone: Unknown
+'B3S':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Halifax West
+	:time_zone: Unknown
+'B3T':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Lakeside
+	:time_zone: Unknown
+'B3V':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Harrietsfield
+	:time_zone: Unknown
+'B3Z':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Tantallon
+	:time_zone: Unknown
+'B4A':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Bedford Southeast
+	:time_zone: Unknown
+'B4B':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Bedford Northwest
+	:time_zone: Unknown
+'B4C':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Lower Sackville South
+	:time_zone: Unknown
+'B4E':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Lower Sackville West
+	:time_zone: Unknown
+'B4G':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Lower Sackville North
+	:time_zone: Unknown
+'B4H':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Amherst
+	:time_zone: Unknown
+'B4N':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Kentville
+	:time_zone: Unknown
+'B4P':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Wolfville
+	:time_zone: Unknown
+'B4R':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Coldbrook
+	:time_zone: Unknown
+'B4V':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Bridgewater
+	:time_zone: Unknown
+'B5A':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Yarmouth
+	:time_zone: Unknown
+'B6L':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Truro
+	:time_zone: Unknown
+'B9A':
+	:state_code: NS
+	:state_name: Nova Scotia
+	:city: Port Hawkesbury
+	:time_zone: Unknown
+'X0E':
+	:state_code: NT
+	:state_name: Northwest Territory
+	:city: Central Northwest Territories
+	:time_zone: Unknown
+'X0G':
+	:state_code: NT
+	:state_name: Northwest Territory
+	:city: Southwestern Northwest Territories
+	:time_zone: Unknown
+'X1A':
+	:state_code: NT
+	:state_name: Northwest Territory
+	:city: Yellowknife
+	:time_zone: Unknown
+'X0A':
+	:state_code: NU
+	:state_name: Nunavut Territory
+	:city: Outer Nunavut
+	:time_zone: Unknown
+'X0B':
+	:state_code: NU
+	:state_name: Nunavut Territory
+	:city: Central Nunavut
+	:time_zone: Unknown
+'X0C':
+	:state_code: NU
+	:state_name: Nunavut Territory
+	:city: Inner Nunavut
+	:time_zone: Unknown
+'K0A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: National Capital Region
+	:time_zone: Unknown
+'K0B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Prescott and Russell United Counties
+	:time_zone: Unknown
+'K0C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Stormont
+	:time_zone: Unknown
+'K0E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: South Leeds and Grenville United Counties
+	:time_zone: Unknown
+'K0G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Rideau Lakes area
+	:time_zone: Unknown
+'K0H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Frontenac County
+	:time_zone: Unknown
+'K0J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Renfrew County and Lanark Highlands Township
+	:time_zone: Unknown
+'K0K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Quinte Shores
+	:time_zone: Unknown
+'K0L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Peterborough County and North Hastings County
+	:time_zone: Unknown
+'K0M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kawartha lakes and Haliburton County
+	:time_zone: Unknown
+'K1A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Government of Canada Ottawa and Gatineau offices
+	:time_zone: Unknown
+'K1B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Gloucester
+	:time_zone: Unknown
+'K1C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Gloucester
+	:time_zone: Unknown
+'K1E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Orleans
+	:time_zone: Unknown
+'K1G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ottawa
+	:time_zone: Unknown
+'K1H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ottawa
+	:time_zone: Unknown
+'K1J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Gloucester
+	:time_zone: Unknown
+'K1K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ottawa
+	:time_zone: Unknown
+'K1L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ottawa
+	:time_zone: Unknown
+'K1M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ottawa
+	:time_zone: Unknown
+'K1N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ottawa
+	:time_zone: Unknown
+'K1P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ottawa
+	:time_zone: Unknown
+'K1R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ottawa
+	:time_zone: Unknown
+'K1S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ottawa
+	:time_zone: Unknown
+'K1T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Gloucester
+	:time_zone: Unknown
+'K1V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ottawa
+	:time_zone: Unknown
+'K1W':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Gloucester
+	:time_zone: Unknown
+'K1X':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Gloucester South
+	:time_zone: Unknown
+'K1Y':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ottawa West
+	:time_zone: Unknown
+'K1Z':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ottawa
+	:time_zone: Unknown
+'K2A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ottawa
+	:time_zone: Unknown
+'K2B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ottawa
+	:time_zone: Unknown
+'K2C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ottawa
+	:time_zone: Unknown
+'K2E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Nepean East
+	:time_zone: Unknown
+'K2G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Nepean
+	:time_zone: Unknown
+'K2H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Nepean
+	:time_zone: Unknown
+'K2J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Nepean
+	:time_zone: Unknown
+'K2K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kanata
+	:time_zone: Unknown
+'K2L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kanata
+	:time_zone: Unknown
+'K2M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kanata
+	:time_zone: Unknown
+'K2P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ottawa
+	:time_zone: Unknown
+'K2R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Nepean
+	:time_zone: Unknown
+'K2S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Stittsville
+	:time_zone: Unknown
+'K2T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kanata
+	:time_zone: Unknown
+'K2V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kanata
+	:time_zone: Unknown
+'K2W':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kanata
+	:time_zone: Unknown
+'K4A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Orleans
+	:time_zone: Unknown
+'K4B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Cumberland Township
+	:time_zone: Unknown
+'K4C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Cumberland
+	:time_zone: Unknown
+'K4K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Rockland
+	:time_zone: Unknown
+'K4M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Manotick
+	:time_zone: Unknown
+'K4P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Greely
+	:time_zone: Unknown
+'K4R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Russell
+	:time_zone: Unknown
+'K6A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Hawkesbury
+	:time_zone: Unknown
+'K6H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Cornwall East
+	:time_zone: Unknown
+'K6J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Cornwall West
+	:time_zone: Unknown
+'K6K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Cornwall North
+	:time_zone: Unknown
+'K6T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Elizabethtown
+	:time_zone: Unknown
+'K6V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Brockville
+	:time_zone: Unknown
+'K7A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Smiths Falls
+	:time_zone: Unknown
+'K7C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Carleton Place
+	:time_zone: Unknown
+'K7G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Gananoque
+	:time_zone: Unknown
+'K7H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Perth
+	:time_zone: Unknown
+'K7K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kingston
+	:time_zone: Unknown
+'K7L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kingston
+	:time_zone: Unknown
+'K7M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kingston
+	:time_zone: Unknown
+'K7N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Amherstview
+	:time_zone: Unknown
+'K7P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kingston
+	:time_zone: Unknown
+'K7R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Napanee
+	:time_zone: Unknown
+'K7S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Arnprior
+	:time_zone: Unknown
+'K7V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Renfrew
+	:time_zone: Unknown
+'K8A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Pembroke Central and northern subdivisions
+	:time_zone: Unknown
+'K8B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Pembroke
+	:time_zone: Unknown
+'K8H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Petawawa
+	:time_zone: Unknown
+'K8N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Belleville East
+	:time_zone: Unknown
+'K8P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Belleville West
+	:time_zone: Unknown
+'K8R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Belleville
+	:time_zone: Unknown
+'K8V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Trenton
+	:time_zone: Unknown
+'K9A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Cobourg
+	:time_zone: Unknown
+'K9H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Peterborough North
+	:time_zone: Unknown
+'K9J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Peterborough South
+	:time_zone: Unknown
+'K9K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Peterborough
+	:time_zone: Unknown
+'K9L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Peterborough
+	:time_zone: Unknown
+'K9V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Lindsay
+	:time_zone: Unknown
+'L0A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: West Northumberland County
+	:time_zone: Unknown
+'L0B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: East Durham Regional Municipality
+	:time_zone: Unknown
+'L0C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: West Durham Regional Municipality
+	:time_zone: Unknown
+'L0E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Lake Simcoe Southeast Shore
+	:time_zone: Unknown
+'L0G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ontario Centre
+	:time_zone: Unknown
+'L0H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Whitby Region
+	:time_zone: Unknown
+'L0J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: North Peel Regional Municipality
+	:time_zone: Unknown
+'L0K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Lake Simcoe North Shore
+	:time_zone: Unknown
+'L0L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Lake Simcoe West Shore
+	:time_zone: Unknown
+'L0M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Georgian Bay South Shore
+	:time_zone: Unknown
+'L0N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Dufferin County
+	:time_zone: Unknown
+'L0P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Halton Regional Municipality
+	:time_zone: Unknown
+'L0R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: East Haldimand County
+	:time_zone: Unknown
+'L0S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Niagara Regional Municipality
+	:time_zone: Unknown
+'L0V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Westminster Abbey
+	:time_zone: Unknown
+'L1A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Port Hope
+	:time_zone: Unknown
+'L1B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Bowmanville East
+	:time_zone: Unknown
+'L1C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Bowmanville West
+	:time_zone: Unknown
+'L1E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Courtice
+	:time_zone: Unknown
+'L1G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Oshawa Central
+	:time_zone: Unknown
+'L1H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Oshawa Southeast
+	:time_zone: Unknown
+'L1J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Oshawa Southwest
+	:time_zone: Unknown
+'L1K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Oshawa East
+	:time_zone: Unknown
+'L1L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Oshawa North
+	:time_zone: Unknown
+'L1M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Whitby North
+	:time_zone: Unknown
+'L1N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Whitby Southeast
+	:time_zone: Unknown
+'L1P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Whitby Southwest
+	:time_zone: Unknown
+'L1R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Whitby Central
+	:time_zone: Unknown
+'L1S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ajax Southwest
+	:time_zone: Unknown
+'L1T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ajax Northwest
+	:time_zone: Unknown
+'L1V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Pickering Southwest
+	:time_zone: Unknown
+'L1W':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Pickering South
+	:time_zone: Unknown
+'L1X':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Pickering Central
+	:time_zone: Unknown
+'L1Y':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Pickering North
+	:time_zone: Unknown
+'L1Z':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ajax East
+	:time_zone: Unknown
+'L2A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Fort Erie
+	:time_zone: Unknown
+'L2E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Niagara Falls Central
+	:time_zone: Unknown
+'L2G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Niagara Falls Southeast
+	:time_zone: Unknown
+'L2H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Niagara Falls West
+	:time_zone: Unknown
+'L2J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Niagara Falls North
+	:time_zone: Unknown
+'L2M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: St. Catharines Northeast
+	:time_zone: Unknown
+'L2N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: St. Catharines Northwest
+	:time_zone: Unknown
+'L2P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: St. Catharines East
+	:time_zone: Unknown
+'L2R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: St. Catharines Central
+	:time_zone: Unknown
+'L2S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: St. Catharines Southwest
+	:time_zone: Unknown
+'L2T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: St. Catharines South
+	:time_zone: Unknown
+'L2V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: St. Catharines Southeast
+	:time_zone: Unknown
+'L2W':
+	:state_code: ON
+	:state_name: Ontario
+	:city: St. Catharines West
+	:time_zone: Unknown
+'L3B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Welland East
+	:time_zone: Unknown
+'L3C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Welland West
+	:time_zone: Unknown
+'L3K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Port Colborne
+	:time_zone: Unknown
+'L3M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Grimsby
+	:time_zone: Unknown
+'L3P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Markham Central
+	:time_zone: Unknown
+'L3R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Markham Outer Southwest
+	:time_zone: Unknown
+'L3S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Markham Southeast
+	:time_zone: Unknown
+'L3T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Thornhill East
+	:time_zone: Unknown
+'L3V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Orillia
+	:time_zone: Unknown
+'L3X':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Newmarket Southwest
+	:time_zone: Unknown
+'L3Y':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Newmarket Northeast
+	:time_zone: Unknown
+'L3Z':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Bradford
+	:time_zone: Unknown
+'L4A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Stouffville
+	:time_zone: Unknown
+'L4B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Richmond Hill Southeast
+	:time_zone: Unknown
+'L4C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Richmond Hill Southwest
+	:time_zone: Unknown
+'L4E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Richmond Hill North
+	:time_zone: Unknown
+'L4G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Aurora
+	:time_zone: Unknown
+'L4H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Woodbridge North
+	:time_zone: Unknown
+'L4J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Thornhill West
+	:time_zone: Unknown
+'L4K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Concord
+	:time_zone: Unknown
+'L4L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Woodbridge South
+	:time_zone: Unknown
+'L4M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Barrie North
+	:time_zone: Unknown
+'L4N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Barrie South
+	:time_zone: Unknown
+'L4P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Keswick
+	:time_zone: Unknown
+'L4R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Midland
+	:time_zone: Unknown
+'L4S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Richmond Hill Central
+	:time_zone: Unknown
+'L4T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L4V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L4W':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L4X':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L4Y':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L4Z':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L5A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L5B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L5C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L5E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L5G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L5H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L5J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L5K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L5L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L5M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L5N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L5P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L5R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L5S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L5T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L5V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L5W':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Mississauga
+	:time_zone: Unknown
+'L6A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Maple
+	:time_zone: Unknown
+'L6B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Markham East
+	:time_zone: Unknown
+'L6C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Markham Northwest
+	:time_zone: Unknown
+'L6E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Markham Northeast
+	:time_zone: Unknown
+'L6G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Markham Inner Southwest
+	:time_zone: Unknown
+'L6H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Oakville North
+	:time_zone: Unknown
+'L6J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Oakville Northeast
+	:time_zone: Unknown
+'L6K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Oakville East
+	:time_zone: Unknown
+'L6L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Oakville South
+	:time_zone: Unknown
+'L6M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Oakville West
+	:time_zone: Unknown
+'L6P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Brampton North
+	:time_zone: Unknown
+'L6R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Brampton Northwest
+	:time_zone: Unknown
+'L6S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Brampton North Central
+	:time_zone: Unknown
+'L6T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Brampton East
+	:time_zone: Unknown
+'L6V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Brampton Central
+	:time_zone: Unknown
+'L6W':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Brampton Southeast
+	:time_zone: Unknown
+'L6X':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Brampton Southwest
+	:time_zone: Unknown
+'L6Y':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Brampton South
+	:time_zone: Unknown
+'L6Z':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Brampton West Central
+	:time_zone: Unknown
+'L7A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Brampton West
+	:time_zone: Unknown
+'L7B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: King City
+	:time_zone: Unknown
+'L7C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Caledon
+	:time_zone: Unknown
+'L7E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Bolton
+	:time_zone: Unknown
+'L7G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Georgetown
+	:time_zone: Unknown
+'L7J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Acton
+	:time_zone: Unknown
+'L7K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Caledon Village
+	:time_zone: Unknown
+'L7L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Burlington Northeast
+	:time_zone: Unknown
+'L7M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Burlington North
+	:time_zone: Unknown
+'L7N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Burlington East
+	:time_zone: Unknown
+'L7P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Burlington West
+	:time_zone: Unknown
+'L7R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Burlington Southeast
+	:time_zone: Unknown
+'L7S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Burlington South
+	:time_zone: Unknown
+'L7T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Burlington Southwest
+	:time_zone: Unknown
+'L8E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Hamilton
+	:time_zone: Unknown
+'L8G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Hamilton
+	:time_zone: Unknown
+'L8H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Hamilton
+	:time_zone: Unknown
+'L8J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Hamilton
+	:time_zone: Unknown
+'L8K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Hamilton
+	:time_zone: Unknown
+'L8L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Hamilton
+	:time_zone: Unknown
+'L8M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Hamilton
+	:time_zone: Unknown
+'L8N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Hamilton
+	:time_zone: Unknown
+'L8P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Hamilton
+	:time_zone: Unknown
+'L8R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Hamilton
+	:time_zone: Unknown
+'L8S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Hamilton
+	:time_zone: Unknown
+'L8T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Hamilton
+	:time_zone: Unknown
+'L8V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Hamilton
+	:time_zone: Unknown
+'L8W':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Hamilton
+	:time_zone: Unknown
+'L9A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Hamilton
+	:time_zone: Unknown
+'L9B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Hamilton
+	:time_zone: Unknown
+'L9C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Hamilton
+	:time_zone: Unknown
+'L9G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ancaster West
+	:time_zone: Unknown
+'L9H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Dundas
+	:time_zone: Unknown
+'L9J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Barrie
+	:time_zone: Unknown
+'L9K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ancaster East
+	:time_zone: Unknown
+'L9L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Port Perry
+	:time_zone: Unknown
+'L9M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Penetanguishene
+	:time_zone: Unknown
+'L9N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Holland Landing
+	:time_zone: Unknown
+'L9P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Uxbridge
+	:time_zone: Unknown
+'L9R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Alliston
+	:time_zone: Unknown
+'L9S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Innisfil
+	:time_zone: Unknown
+'L9T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Milton
+	:time_zone: Unknown
+'L9V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Orangeville North
+	:time_zone: Unknown
+'L9W':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Orangeville South
+	:time_zone: Unknown
+'L9Y':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Collingwood
+	:time_zone: Unknown
+'L9Z':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Wasaga Beach
+	:time_zone: Unknown
+'M1B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Scarborough
+	:time_zone: Unknown
+'M1C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Scarborough
+	:time_zone: Unknown
+'M1E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Scarborough
+	:time_zone: Unknown
+'M1G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Scarborough
+	:time_zone: Unknown
+'M1H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Scarborough
+	:time_zone: Unknown
+'M1J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Scarborough
+	:time_zone: Unknown
+'M1K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Scarborough
+	:time_zone: Unknown
+'M1L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Scarborough
+	:time_zone: Unknown
+'M1M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Scarborough
+	:time_zone: Unknown
+'M1N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Scarborough
+	:time_zone: Unknown
+'M1P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Scarborough
+	:time_zone: Unknown
+'M1R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Scarborough
+	:time_zone: Unknown
+'M1S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Scarborough
+	:time_zone: Unknown
+'M1T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Scarborough
+	:time_zone: Unknown
+'M1V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Scarborough
+	:time_zone: Unknown
+'M1W':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Scarborough
+	:time_zone: Unknown
+'M1X':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Scarborough
+	:time_zone: Unknown
+'M2H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: North York
+	:time_zone: Unknown
+'M2J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: North York
+	:time_zone: Unknown
+'M2K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: North York
+	:time_zone: Unknown
+'M2L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: North York
+	:time_zone: Unknown
+'M2M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Willowdale East
+	:time_zone: Unknown
+'M2N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Willowdale South
+	:time_zone: Unknown
+'M2P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: North York
+	:time_zone: Unknown
+'M2R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Willowdale West
+	:time_zone: Unknown
+'M3A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: North York
+	:time_zone: Unknown
+'M3B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Don Mills North
+	:time_zone: Unknown
+'M3C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Don Mills South
+	:time_zone: Unknown
+'M3H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: North York
+	:time_zone: Unknown
+'M3J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: North York
+	:time_zone: Unknown
+'M3K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downsview East
+	:time_zone: Unknown
+'M3L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downsview West
+	:time_zone: Unknown
+'M3M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downsview Central
+	:time_zone: Unknown
+'M3N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: North York
+	:time_zone: Unknown
+'M4A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: North York
+	:time_zone: Unknown
+'M4B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: East York
+	:time_zone: Unknown
+'M4C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: East York
+	:time_zone: Unknown
+'M4E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: East Toronto
+	:time_zone: Unknown
+'M4G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: East York
+	:time_zone: Unknown
+'M4H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: East York
+	:time_zone: Unknown
+'M4J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: East Toronto
+	:time_zone: Unknown
+'M4K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: East Toronto
+	:time_zone: Unknown
+'M4L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: East Toronto
+	:time_zone: Unknown
+'M4M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: East Toronto
+	:time_zone: Unknown
+'M4N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Central Toronto
+	:time_zone: Unknown
+'M4P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Central Toronto
+	:time_zone: Unknown
+'M4R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Central Toronto
+	:time_zone: Unknown
+'M4S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Central Toronto
+	:time_zone: Unknown
+'M4T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Central Toronto
+	:time_zone: Unknown
+'M4V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Central Toronto
+	:time_zone: Unknown
+'M4W':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downtown Toronto
+	:time_zone: Unknown
+'M4X':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downtown Toronto
+	:time_zone: Unknown
+'M4Y':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downtown Toronto
+	:time_zone: Unknown
+'M5A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downtown Toronto
+	:time_zone: Unknown
+'M5B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downtown Toronto
+	:time_zone: Unknown
+'M5C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downtown Toronto
+	:time_zone: Unknown
+'M5E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downtown Toronto
+	:time_zone: Unknown
+'M5G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downtown Toronto
+	:time_zone: Unknown
+'M5H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downtown Toronto
+	:time_zone: Unknown
+'M5J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downtown Toronto
+	:time_zone: Unknown
+'M5K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downtown Toronto
+	:time_zone: Unknown
+'M5L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downtown Toronto
+	:time_zone: Unknown
+'M5M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: North York
+	:time_zone: Unknown
+'M5N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Central Toronto
+	:time_zone: Unknown
+'M5P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Central Toronto
+	:time_zone: Unknown
+'M5R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Central Toronto
+	:time_zone: Unknown
+'M5S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downtown Toronto
+	:time_zone: Unknown
+'M5T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downtown Toronto
+	:time_zone: Unknown
+'M5V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downtown Toronto
+	:time_zone: Unknown
+'M5W':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downtown Toronto Stn A PO Boxes 25 The Esplanade
+	:time_zone: Unknown
+'M5X':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downtown Toronto
+	:time_zone: Unknown
+'M6A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: North York
+	:time_zone: Unknown
+'M6B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: North York
+	:time_zone: Unknown
+'M6C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: York
+	:time_zone: Unknown
+'M6E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: York
+	:time_zone: Unknown
+'M6G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Downtown Toronto
+	:time_zone: Unknown
+'M6H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: West Toronto
+	:time_zone: Unknown
+'M6J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: West Toronto
+	:time_zone: Unknown
+'M6K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: West Toronto
+	:time_zone: Unknown
+'M6L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: North York
+	:time_zone: Unknown
+'M6M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: York
+	:time_zone: Unknown
+'M6N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: York
+	:time_zone: Unknown
+'M6P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: West Toronto
+	:time_zone: Unknown
+'M6R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: West Toronto
+	:time_zone: Unknown
+'M6S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: West Toronto
+	:time_zone: Unknown
+'M7A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Queen's Park Ontario Provincial Government
+	:time_zone: Unknown
+'M7Y':
+	:state_code: ON
+	:state_name: Ontario
+	:city: East Toronto Business Reply Mail Processing Centre 969 Eastern
+	:time_zone: Unknown
+'M8V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Etobicoke
+	:time_zone: Unknown
+'M8W':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Etobicoke
+	:time_zone: Unknown
+'M8X':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Etobicoke
+	:time_zone: Unknown
+'M8Y':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Etobicoke
+	:time_zone: Unknown
+'M8Z':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Etobicoke
+	:time_zone: Unknown
+'M9A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Etobicoke
+	:time_zone: Unknown
+'M9B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Etobicoke
+	:time_zone: Unknown
+'M9C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Etobicoke
+	:time_zone: Unknown
+'M9L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: North York
+	:time_zone: Unknown
+'M9M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: North York
+	:time_zone: Unknown
+'M9N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Weston
+	:time_zone: Unknown
+'M9P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Etobicoke
+	:time_zone: Unknown
+'M9R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Etobicoke
+	:time_zone: Unknown
+'M9V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Etobicoke
+	:time_zone: Unknown
+'M9W':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Etobicoke Northwest
+	:time_zone: Unknown
+'N0A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: West Haldimand
+	:time_zone: Unknown
+'N0B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Wellington
+	:time_zone: Unknown
+'N0C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Georgian Bay Southwest Shore
+	:time_zone: Unknown
+'N0E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Brant and Norfolk
+	:time_zone: Unknown
+'N0G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Huron
+	:time_zone: Unknown
+'N0H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Bruce Peninsula
+	:time_zone: Unknown
+'N0J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Oxford
+	:time_zone: Unknown
+'N0K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Perth
+	:time_zone: Unknown
+'N0L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Elgin
+	:time_zone: Unknown
+'N0M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Middlesex
+	:time_zone: Unknown
+'N0N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Lambton
+	:time_zone: Unknown
+'N0P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kent
+	:time_zone: Unknown
+'N0R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Essex
+	:time_zone: Unknown
+'N1A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Dunnville
+	:time_zone: Unknown
+'N1C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Guelph South
+	:time_zone: Unknown
+'N1E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Guelph North
+	:time_zone: Unknown
+'N1G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Guelph Central
+	:time_zone: Unknown
+'N1H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Guelph Northwest
+	:time_zone: Unknown
+'N1K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Guelph West
+	:time_zone: Unknown
+'N1L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Guelph East
+	:time_zone: Unknown
+'N1M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Fergus
+	:time_zone: Unknown
+'N1P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Cambridge South
+	:time_zone: Unknown
+'N1R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Cambridge Central
+	:time_zone: Unknown
+'N1S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Cambridge Southwest
+	:time_zone: Unknown
+'N1T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Cambridge East
+	:time_zone: Unknown
+'N2A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kitchener East
+	:time_zone: Unknown
+'N2B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kitchener Northeast
+	:time_zone: Unknown
+'N2C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kitchener South Central
+	:time_zone: Unknown
+'N2E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kitchener Southwest
+	:time_zone: Unknown
+'N2G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kitchener Central
+	:time_zone: Unknown
+'N2H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kitchener North Central
+	:time_zone: Unknown
+'N2J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Waterloo Southeast
+	:time_zone: Unknown
+'N2K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kitchener North
+	:time_zone: Unknown
+'N2L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Waterloo South
+	:time_zone: Unknown
+'N2M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kitchener Northwest
+	:time_zone: Unknown
+'N2N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kitchener West
+	:time_zone: Unknown
+'N2P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kitchener Southeast
+	:time_zone: Unknown
+'N2R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kitchener South
+	:time_zone: Unknown
+'N2T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Waterloo Southwest
+	:time_zone: Unknown
+'N2V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Waterloo Northwest
+	:time_zone: Unknown
+'N2Z':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kincardine
+	:time_zone: Unknown
+'N3A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Baden
+	:time_zone: Unknown
+'N3B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Elmira
+	:time_zone: Unknown
+'N3C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Cambridge Northeast
+	:time_zone: Unknown
+'N3E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Cambridge Northwest
+	:time_zone: Unknown
+'N3H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Cambridge West
+	:time_zone: Unknown
+'N3L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Paris
+	:time_zone: Unknown
+'N3P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Brantford Northeast
+	:time_zone: Unknown
+'N3R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Brantford Central
+	:time_zone: Unknown
+'N3S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Brantford Southeast
+	:time_zone: Unknown
+'N3T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Brantford Southwest
+	:time_zone: Unknown
+'N3V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Brantford Northwest
+	:time_zone: Unknown
+'N3W':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Caledonia
+	:time_zone: Unknown
+'N3Y':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Simcoe
+	:time_zone: Unknown
+'N4B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Delhi
+	:time_zone: Unknown
+'N4G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Tillsonburg
+	:time_zone: Unknown
+'N4K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Owen Sound
+	:time_zone: Unknown
+'N4L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Meaford
+	:time_zone: Unknown
+'N4N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Hanover
+	:time_zone: Unknown
+'N4S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Woodstock Central
+	:time_zone: Unknown
+'N4T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Woodstock North
+	:time_zone: Unknown
+'N4V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Woodstock South
+	:time_zone: Unknown
+'N4W':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Listowel
+	:time_zone: Unknown
+'N4X':
+	:state_code: ON
+	:state_name: Ontario
+	:city: St. Mary's
+	:time_zone: Unknown
+'N4Z':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Stratford South
+	:time_zone: Unknown
+'N5A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Stratford North
+	:time_zone: Unknown
+'N5C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Ingersoll
+	:time_zone: Unknown
+'N5H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Aylmer
+	:time_zone: Unknown
+'N5L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Port Stanley
+	:time_zone: Unknown
+'N5P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: St. Thomas North
+	:time_zone: Unknown
+'N5R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: St. Thomas South
+	:time_zone: Unknown
+'N5V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: London
+	:time_zone: Unknown
+'N5W':
+	:state_code: ON
+	:state_name: Ontario
+	:city: London East
+	:time_zone: Unknown
+'N5X':
+	:state_code: ON
+	:state_name: Ontario
+	:city: London
+	:time_zone: Unknown
+'N5Y':
+	:state_code: ON
+	:state_name: Ontario
+	:city: London
+	:time_zone: Unknown
+'N5Z':
+	:state_code: ON
+	:state_name: Ontario
+	:city: London
+	:time_zone: Unknown
+'N6A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: London North
+	:time_zone: Unknown
+'N6B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: London Central
+	:time_zone: Unknown
+'N6C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: London South
+	:time_zone: Unknown
+'N6E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: London
+	:time_zone: Unknown
+'N6G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: London
+	:time_zone: Unknown
+'N6H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: London West
+	:time_zone: Unknown
+'N6J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: London
+	:time_zone: Unknown
+'N6K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: London
+	:time_zone: Unknown
+'N6L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: London
+	:time_zone: Unknown
+'N6M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: London
+	:time_zone: Unknown
+'N6N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: London
+	:time_zone: Unknown
+'N6P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: London
+	:time_zone: Unknown
+'N7A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Goderich
+	:time_zone: Unknown
+'N7G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Strathroy
+	:time_zone: Unknown
+'N7L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Chatham Northwest
+	:time_zone: Unknown
+'N7M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Chatham Southeast
+	:time_zone: Unknown
+'N7S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Sarnia Central
+	:time_zone: Unknown
+'N7T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Sarnia Southwest
+	:time_zone: Unknown
+'N7V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Sarnia Northwest
+	:time_zone: Unknown
+'N7W':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Sarnia Southeast
+	:time_zone: Unknown
+'N7X':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Sarnia Northeast
+	:time_zone: Unknown
+'N8A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Wallaceburg
+	:time_zone: Unknown
+'N8H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Leamington
+	:time_zone: Unknown
+'N8M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Essex
+	:time_zone: Unknown
+'N8N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Tecumseh Outskirts
+	:time_zone: Unknown
+'N8P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Windsor
+	:time_zone: Unknown
+'N8R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Windsor
+	:time_zone: Unknown
+'N8S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Windsor
+	:time_zone: Unknown
+'N8T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Windsor
+	:time_zone: Unknown
+'N8V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Tecumseh
+	:time_zone: Unknown
+'N8W':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Windsor
+	:time_zone: Unknown
+'N8X':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Windsor South Central
+	:time_zone: Unknown
+'N8Y':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Windsor East
+	:time_zone: Unknown
+'N9A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Windsor
+	:time_zone: Unknown
+'N9B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Windsor
+	:time_zone: Unknown
+'N9C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Windsor
+	:time_zone: Unknown
+'N9E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Windsor South
+	:time_zone: Unknown
+'N9G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Windsor
+	:time_zone: Unknown
+'N9H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: La Salle East
+	:time_zone: Unknown
+'N9J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: La Salle West
+	:time_zone: Unknown
+'N9K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Tecumseh Central
+	:time_zone: Unknown
+'N9V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Amherstburg
+	:time_zone: Unknown
+'N9Y':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kingsville
+	:time_zone: Unknown
+'P0A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Nipissing Central
+	:time_zone: Unknown
+'P0B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Nipissing South
+	:time_zone: Unknown
+'P0C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Parry Sound Mid-Shore
+	:time_zone: Unknown
+'P0E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Parry Sound South Shore
+	:time_zone: Unknown
+'P0G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Parry Sound North Shore
+	:time_zone: Unknown
+'P0H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Nipissing North
+	:time_zone: Unknown
+'P0J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Timiskaming South
+	:time_zone: Unknown
+'P0K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Timiskaming North
+	:time_zone: Unknown
+'P0L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Cochrane Region
+	:time_zone: Unknown
+'P0M':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Algoma
+	:time_zone: Unknown
+'P0N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Timmins Region
+	:time_zone: Unknown
+'P0P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Manitoulin
+	:time_zone: Unknown
+'P0R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Algoma Southwest
+	:time_zone: Unknown
+'P0S':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Lake Superior East Shore
+	:time_zone: Unknown
+'P0T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Lake Superior North Shore
+	:time_zone: Unknown
+'P0V':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Northwestern Ontario
+	:time_zone: Unknown
+'P0W':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Rainy River Region
+	:time_zone: Unknown
+'P0X':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kenora Region
+	:time_zone: Unknown
+'P0Y':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Lake of the Woods East Shore
+	:time_zone: Unknown
+'P1A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: North Bay South
+	:time_zone: Unknown
+'P1B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: North Bay Central
+	:time_zone: Unknown
+'P1C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: North Bay North
+	:time_zone: Unknown
+'P1H':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Huntsville
+	:time_zone: Unknown
+'P1L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Bracebridge
+	:time_zone: Unknown
+'P1P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Gravenhurst
+	:time_zone: Unknown
+'P2A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Parry Sound
+	:time_zone: Unknown
+'P2B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Sturgeon Falls
+	:time_zone: Unknown
+'P2N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kirkland Lake
+	:time_zone: Unknown
+'P3A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Greater Sudbury
+	:time_zone: Unknown
+'P3B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Greater Sudbury
+	:time_zone: Unknown
+'P3C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Greater Sudbury
+	:time_zone: Unknown
+'P3E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Greater Sudbury
+	:time_zone: Unknown
+'P3G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Greater Sudbury
+	:time_zone: Unknown
+'P3L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Greater Sudbury
+	:time_zone: Unknown
+'P3N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Greater Sudbury
+	:time_zone: Unknown
+'P3P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Greater Sudbury
+	:time_zone: Unknown
+'P3Y':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Greater Sudbury
+	:time_zone: Unknown
+'P4N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Timmins Southeast
+	:time_zone: Unknown
+'P4P':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Timmins North
+	:time_zone: Unknown
+'P4R':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Timmins West
+	:time_zone: Unknown
+'P5A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Elliot Lake
+	:time_zone: Unknown
+'P5E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Espanola
+	:time_zone: Unknown
+'P5N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kapuskasing
+	:time_zone: Unknown
+'P6A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Sault Ste. Marie East
+	:time_zone: Unknown
+'P6B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Sault Ste. Marie Central
+	:time_zone: Unknown
+'P6C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Sault Ste. Marie North
+	:time_zone: Unknown
+'P7A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Thunder Bay Northeast
+	:time_zone: Unknown
+'P7B':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Thunder Bay North Central
+	:time_zone: Unknown
+'P7C':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Thunder Bay Central
+	:time_zone: Unknown
+'P7E':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Thunder Bay South Central
+	:time_zone: Unknown
+'P7G':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Thunder Bay North
+	:time_zone: Unknown
+'P7J':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Thunder Bay South
+	:time_zone: Unknown
+'P7K':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Thunder Bay West
+	:time_zone: Unknown
+'P7L':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Neebing
+	:time_zone: Unknown
+'P8N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Dryden
+	:time_zone: Unknown
+'P8T':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Sioux Lookout
+	:time_zone: Unknown
+'P9A':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Fort Frances
+	:time_zone: Unknown
+'P9N':
+	:state_code: ON
+	:state_name: Ontario
+	:city: Kenora
+	:time_zone: Unknown
+'C0A':
+	:state_code: PE
+	:state_name: Prince Edward Island
+	:city: Kings and Queens counties
+	:time_zone: Unknown
+'C0A':
+	:state_code: PE
+	:state_name: Prince Edward Island
+	:city: Montague
+	:time_zone: Unknown
+'C0B':
+	:state_code: PE
+	:state_name: Prince Edward Island
+	:city: Prince County
+	:time_zone: Unknown
+'C1A':
+	:state_code: PE
+	:state_name: Prince Edward Island
+	:city: Charlottetown Southeast Prince Edward Island Provincial Government
+	:time_zone: Unknown
+'C1B':
+	:state_code: PE
+	:state_name: Prince Edward Island
+	:city: Stratford
+	:time_zone: Unknown
+'C1C':
+	:state_code: PE
+	:state_name: Prince Edward Island
+	:city: Charlottetown North
+	:time_zone: Unknown
+'C1E':
+	:state_code: PE
+	:state_name: Prince Edward Island
+	:city: Charlottetown West
+	:time_zone: Unknown
+'C1N':
+	:state_code: PE
+	:state_name: Prince Edward Island
+	:city: Summerside
+	:time_zone: Unknown
+'G0A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Capitale-Nationale
+	:time_zone: Unknown
+'G0B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Cap-aux-Meules
+	:time_zone: Unknown
+'G0C':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Gasp̩sie-Sud
+	:time_zone: Unknown
+'G0E':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Gasp̩sie-Nord
+	:time_zone: Unknown
+'G0G':
+	:state_code: QC
+	:state_name: Quebec
+	:city: C̫te-Nord/Anticosti
+	:time_zone: Unknown
+'G0H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Manicouagan
+	:time_zone: Unknown
+'G0J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Gasp̩sie-Ouest
+	:time_zone: Unknown
+'G0K':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Bas-St-Laurent- Est
+	:time_zone: Unknown
+'G0L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Bas-St-Laurent- Ouest
+	:time_zone: Unknown
+'G0M':
+	:state_code: QC
+	:state_name: Quebec
+	:city: R̩gion de Beauce
+	:time_zone: Unknown
+'G0N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Chaudi̬re-Sud
+	:time_zone: Unknown
+'G0P':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Centre-du- Qu̩bec-Est
+	:time_zone: Unknown
+'G0R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Appalaches
+	:time_zone: Unknown
+'G0S':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Chaudi̬re-Nord
+	:time_zone: Unknown
+'G0T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Le Fjord
+	:time_zone: Unknown
+'G0V':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saguenay- Lac-St-Jean
+	:time_zone: Unknown
+'G0W':
+	:state_code: QC
+	:state_name: Quebec
+	:city: R̩gion de Mistassini
+	:time_zone: Unknown
+'G0X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Mauricie
+	:time_zone: Unknown
+'G0Y':
+	:state_code: QC
+	:state_name: Quebec
+	:city: L'Erable
+	:time_zone: Unknown
+'G0Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Centre-du- Qu̩bec-Nord
+	:time_zone: Unknown
+'G1A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Quebec Provincial Government
+	:time_zone: Unknown
+'G1B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Beauport North
+	:time_zone: Unknown
+'G1C':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Beauport Central
+	:time_zone: Unknown
+'G1E':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Beauport South
+	:time_zone: Unknown
+'G1G':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Jean-Talon Southeast
+	:time_zone: Unknown
+'G1H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Charlesbourg South
+	:time_zone: Unknown
+'G1J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Quebec City Lower Riverbank
+	:time_zone: Unknown
+'G1K':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Quebec City Mid-Riverbank
+	:time_zone: Unknown
+'G1L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Quebec City Northeast
+	:time_zone: Unknown
+'G1M':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Quebec City North Central
+	:time_zone: Unknown
+'G1N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Quebec City South Central
+	:time_zone: Unknown
+'G1P':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Quebec City West
+	:time_zone: Unknown
+'G1R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Quebec City East
+	:time_zone: Unknown
+'G1S':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Quebec City South
+	:time_zone: Unknown
+'G1T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Quebec City Upper Riverbank
+	:time_zone: Unknown
+'G1V':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Foy Northeast
+	:time_zone: Unknown
+'G1W':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Foy Southeast
+	:time_zone: Unknown
+'G1X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Foy West
+	:time_zone: Unknown
+'G1Y':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Cap-Rouge
+	:time_zone: Unknown
+'G2A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Loretteville North
+	:time_zone: Unknown
+'G2B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Loretteville South
+	:time_zone: Unknown
+'G2C':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Quebec City Northwest
+	:time_zone: Unknown
+'G2E':
+	:state_code: QC
+	:state_name: Quebec
+	:city: L'Ancienne- Lorette Northeast
+	:time_zone: Unknown
+'G2G':
+	:state_code: QC
+	:state_name: Quebec
+	:city: L'Ancienne- Lorette Southwest
+	:time_zone: Unknown
+'G2J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Quebec City Inner North
+	:time_zone: Unknown
+'G2K':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Quebec City Outer North
+	:time_zone: Unknown
+'G2L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Charlesbourg North
+	:time_zone: Unknown
+'G2M':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Jean-Talon Northeast
+	:time_zone: Unknown
+'G2N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Jean-Talon West
+	:time_zone: Unknown
+'G3A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: St-Augustin- De-Desmaures
+	:time_zone: Unknown
+'G3B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Lac-Beauport
+	:time_zone: Unknown
+'G3C':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Stoneham-et-Tewkesbury
+	:time_zone: Unknown
+'G3E':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-��mile
+	:time_zone: Unknown
+'G3G':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Lac-Saint-Charles
+	:time_zone: Unknown
+'G3H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Pont-Rouge
+	:time_zone: Unknown
+'G3J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Val-B̩lair North
+	:time_zone: Unknown
+'G3K':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Val-B̩lair South
+	:time_zone: Unknown
+'G3L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Raymond
+	:time_zone: Unknown
+'G3M':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Donnacona
+	:time_zone: Unknown
+'G3N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Catherine-de-la-Jacques-Cartier
+	:time_zone: Unknown
+'G3Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Baie-Saint-Paul
+	:time_zone: Unknown
+'G4A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Clermont
+	:time_zone: Unknown
+'G4R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sept-�_les Southeast
+	:time_zone: Unknown
+'G4S':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sept-�_les Northwest
+	:time_zone: Unknown
+'G4T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Les �_les-De-La- Madeleine
+	:time_zone: Unknown
+'G4V':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Anne- Des-Monts
+	:time_zone: Unknown
+'G4W':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Matane
+	:time_zone: Unknown
+'G4X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Gasp̩
+	:time_zone: Unknown
+'G4Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Baie-Comeau Northeast
+	:time_zone: Unknown
+'G5A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: La Malbaie
+	:time_zone: Unknown
+'G5B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Port-Cartier
+	:time_zone: Unknown
+'G5C':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Baie-Comeau Southwest
+	:time_zone: Unknown
+'G5H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Mont-Joli
+	:time_zone: Unknown
+'G5J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Amqui
+	:time_zone: Unknown
+'G5L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Rimouski Central
+	:time_zone: Unknown
+'G5M':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Rimouski Northeast
+	:time_zone: Unknown
+'G5N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Rimouski Southwest
+	:time_zone: Unknown
+'G5R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Rivi̬re-du-Loup
+	:time_zone: Unknown
+'G5T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Degelis
+	:time_zone: Unknown
+'G5V':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Montmagny
+	:time_zone: Unknown
+'G5X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Beauceville
+	:time_zone: Unknown
+'G5Y':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Georges Central
+	:time_zone: Unknown
+'G5Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Georges Southeast
+	:time_zone: Unknown
+'G6A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Georges Northwest
+	:time_zone: Unknown
+'G6B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Lac-Megantic
+	:time_zone: Unknown
+'G6C':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Pintendre
+	:time_zone: Unknown
+'G6E':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Marie
+	:time_zone: Unknown
+'G6G':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Thetford Mines
+	:time_zone: Unknown
+'G6H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Black Lake
+	:time_zone: Unknown
+'G6J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Etienne- De-Lauzon
+	:time_zone: Unknown
+'G6K':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint- Redempteur
+	:time_zone: Unknown
+'G6L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Plessisville
+	:time_zone: Unknown
+'G6P':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Victoriaville Central
+	:time_zone: Unknown
+'G6R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Victoriaville South
+	:time_zone: Unknown
+'G6S':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Victoriaville East
+	:time_zone: Unknown
+'G6T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Victoriaville Northwest
+	:time_zone: Unknown
+'G6V':
+	:state_code: QC
+	:state_name: Quebec
+	:city: L̩vis North
+	:time_zone: Unknown
+'G6W':
+	:state_code: QC
+	:state_name: Quebec
+	:city: L̩vis South
+	:time_zone: Unknown
+'G6X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Charny
+	:time_zone: Unknown
+'G6Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Jean- Chrysostome
+	:time_zone: Unknown
+'G7A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Nicolas
+	:time_zone: Unknown
+'G7B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: La Baie
+	:time_zone: Unknown
+'G7G':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Chicoutimi North
+	:time_zone: Unknown
+'G7H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Chicoutimi East
+	:time_zone: Unknown
+'G7J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Chicoutimi West
+	:time_zone: Unknown
+'G7K':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Chicoutimi Southwest
+	:time_zone: Unknown
+'G7N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Laterri̬re
+	:time_zone: Unknown
+'G7P':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Ambroise
+	:time_zone: Unknown
+'G7S':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Jonqui̬re Northeast
+	:time_zone: Unknown
+'G7T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Jonqui̬re Southeast
+	:time_zone: Unknown
+'G7X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Jonqui̬re Central
+	:time_zone: Unknown
+'G7Y':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Jonqui̬re Southwest
+	:time_zone: Unknown
+'G7Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Jonqui̬re Northwest
+	:time_zone: Unknown
+'G8A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Jonqui̬re West
+	:time_zone: Unknown
+'G8B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Alma Southeast
+	:time_zone: Unknown
+'G8C':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Alma Southwest
+	:time_zone: Unknown
+'G8E':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Alma North
+	:time_zone: Unknown
+'G8G':
+	:state_code: QC
+	:state_name: Quebec
+	:city: M̩tabetchouan- Lac-a-la-Croix
+	:time_zone: Unknown
+'G8H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Roberval
+	:time_zone: Unknown
+'G8J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Prime
+	:time_zone: Unknown
+'G8K':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-F̩licien
+	:time_zone: Unknown
+'G8L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Dolbeau- Mistassini
+	:time_zone: Unknown
+'G8M':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Albanel
+	:time_zone: Unknown
+'G8N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: H̩bertville
+	:time_zone: Unknown
+'G8P':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Chibougamau
+	:time_zone: Unknown
+'G8T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Cap-de-la- Madeleine Central and southeast
+	:time_zone: Unknown
+'G8V':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Cap-de-la- Madeleine Northeast
+	:time_zone: Unknown
+'G8W':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Cap-de-la- Madeleine West
+	:time_zone: Unknown
+'G8Y':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Trois-Rivi̬res Central
+	:time_zone: Unknown
+'G8Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Trois-Rivi̬res Northeast
+	:time_zone: Unknown
+'G9A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Trois-Rivi̬res East
+	:time_zone: Unknown
+'G9B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Trois-Rivi̬res South
+	:time_zone: Unknown
+'G9C':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Trois-Rivi̬res West
+	:time_zone: Unknown
+'G9H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Becancour
+	:time_zone: Unknown
+'G9N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Shawinigan Central
+	:time_zone: Unknown
+'G9P':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Shawinigan Southeast
+	:time_zone: Unknown
+'G9R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Shawinigan Northwest
+	:time_zone: Unknown
+'G9T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Grand-M̬re
+	:time_zone: Unknown
+'G9X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: La Tuque
+	:time_zone: Unknown
+'H0H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Reserved
+	:time_zone: Unknown
+'H0M':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Akwesasne Region
+	:time_zone: Unknown
+'H1A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Pointe-Aux-Trembles
+	:time_zone: Unknown
+'H1B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Montreal East
+	:time_zone: Unknown
+'H1C':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Rivi̬re-des-Prairies Northeast
+	:time_zone: Unknown
+'H1E':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Rivi̬re-Des-Prairies Southwest
+	:time_zone: Unknown
+'H1G':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Montreal North North
+	:time_zone: Unknown
+'H1H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Montreal North South
+	:time_zone: Unknown
+'H1J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Anjou West
+	:time_zone: Unknown
+'H1K':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Anjou East
+	:time_zone: Unknown
+'H1L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Mercier North
+	:time_zone: Unknown
+'H1M':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Mercier West
+	:time_zone: Unknown
+'H1N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Mercier Southeast
+	:time_zone: Unknown
+'H1P':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-L̩onard North
+	:time_zone: Unknown
+'H1R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-L̩onard West
+	:time_zone: Unknown
+'H1S':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-L̩onard Southeast
+	:time_zone: Unknown
+'H1T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Rosemont North
+	:time_zone: Unknown
+'H1V':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Maisonneuve
+	:time_zone: Unknown
+'H1W':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Hochelaga
+	:time_zone: Unknown
+'H1X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Rosemont Central
+	:time_zone: Unknown
+'H1Y':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Rosemont South
+	:time_zone: Unknown
+'H1Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Michel West
+	:time_zone: Unknown
+'H2A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Michel East
+	:time_zone: Unknown
+'H2B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Ahuntsic North
+	:time_zone: Unknown
+'H2C':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Ahuntsic Central
+	:time_zone: Unknown
+'H2E':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Villeray Northeast
+	:time_zone: Unknown
+'H2G':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Petite-Patrie Northeast
+	:time_zone: Unknown
+'H2H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Plateau Mont-Royal North
+	:time_zone: Unknown
+'H2J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Plateau Mont-Royal North Central
+	:time_zone: Unknown
+'H2K':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Centre-Sud North
+	:time_zone: Unknown
+'H2L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Centre-Sud South
+	:time_zone: Unknown
+'H2M':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Ahuntsic East
+	:time_zone: Unknown
+'H2N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Ahuntsic Southeast
+	:time_zone: Unknown
+'H2P':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Villeray West
+	:time_zone: Unknown
+'H2R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Villeray Southeast
+	:time_zone: Unknown
+'H2S':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Petite-Patrie Southwest
+	:time_zone: Unknown
+'H2T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Plateau Mont-Royal West
+	:time_zone: Unknown
+'H2V':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Outremont
+	:time_zone: Unknown
+'H2W':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Plateau Mont-Royal South Central
+	:time_zone: Unknown
+'H2X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Plateau Mont-Royal Southeast
+	:time_zone: Unknown
+'H2Y':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Old Montreal
+	:time_zone: Unknown
+'H2Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Downtown Montreal Northeast
+	:time_zone: Unknown
+'H3A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Downtown Montreal North
+	:time_zone: Unknown
+'H3B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Downtown Montreal East
+	:time_zone: Unknown
+'H3C':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Griffintown
+	:time_zone: Unknown
+'H3E':
+	:state_code: QC
+	:state_name: Quebec
+	:city: L'�_le-Des-Soeurs
+	:time_zone: Unknown
+'H3G':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Downtown Montreal Southeast
+	:time_zone: Unknown
+'H3H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Downtown Montreal South & West
+	:time_zone: Unknown
+'H3J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Petite-Bourgogne
+	:time_zone: Unknown
+'H3K':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Pointe-Saint-Charles
+	:time_zone: Unknown
+'H3L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Ahuntsic Southwest
+	:time_zone: Unknown
+'H3M':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Cartierville Northeast
+	:time_zone: Unknown
+'H3N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Parc-Extension
+	:time_zone: Unknown
+'H3P':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Mount Royal North
+	:time_zone: Unknown
+'H3R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Mount Royal Central
+	:time_zone: Unknown
+'H3S':
+	:state_code: QC
+	:state_name: Quebec
+	:city: C̫te-des-Neiges North
+	:time_zone: Unknown
+'H3T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: C̫te-des-Neiges Northeast
+	:time_zone: Unknown
+'H3V':
+	:state_code: QC
+	:state_name: Quebec
+	:city: C̫te-des-Neiges East
+	:time_zone: Unknown
+'H3W':
+	:state_code: QC
+	:state_name: Quebec
+	:city: C̫te-des-Neiges Southwest
+	:time_zone: Unknown
+'H3X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Hampstead
+	:time_zone: Unknown
+'H3Y':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Westmount West
+	:time_zone: Unknown
+'H3Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Westmount East
+	:time_zone: Unknown
+'H4A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Notre-Dame-de-Gr��ce Northeast
+	:time_zone: Unknown
+'H4B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Notre-Dame-de-Gr��ce Southwest
+	:time_zone: Unknown
+'H4C':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Henri
+	:time_zone: Unknown
+'H4E':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Ville ��mard
+	:time_zone: Unknown
+'H4G':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Verdun North
+	:time_zone: Unknown
+'H4H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Verdun South
+	:time_zone: Unknown
+'H4J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Cartierville Central
+	:time_zone: Unknown
+'H4K':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Cartierville Southwest
+	:time_zone: Unknown
+'H4L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Laurent Inner Northeast
+	:time_zone: Unknown
+'H4M':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Laurent East
+	:time_zone: Unknown
+'H4N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Laurent Outer Northeast
+	:time_zone: Unknown
+'H4P':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Mount Royal South
+	:time_zone: Unknown
+'H4R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Laurent Central
+	:time_zone: Unknown
+'H4S':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Laurent Southwest
+	:time_zone: Unknown
+'H4T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Laurent Southeast
+	:time_zone: Unknown
+'H4V':
+	:state_code: QC
+	:state_name: Quebec
+	:city: C̫te-Saint-Luc East
+	:time_zone: Unknown
+'H4W':
+	:state_code: QC
+	:state_name: Quebec
+	:city: C̫te-Saint-Luc West
+	:time_zone: Unknown
+'H4X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Montreal West
+	:time_zone: Unknown
+'H4Y':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Dorval Central
+	:time_zone: Unknown
+'H4Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Tour de la Bourse
+	:time_zone: Unknown
+'H5A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Place Bonaventure
+	:time_zone: Unknown
+'H5B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Place Desjardins
+	:time_zone: Unknown
+'H7A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Duvernay-Est
+	:time_zone: Unknown
+'H7B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Fran�_ois
+	:time_zone: Unknown
+'H7C':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Vincent-de-Paul
+	:time_zone: Unknown
+'H7E':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Duvernay
+	:time_zone: Unknown
+'H7G':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Pont-Viau
+	:time_zone: Unknown
+'H7H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Auteuil West
+	:time_zone: Unknown
+'H7J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Auteuil Northeast
+	:time_zone: Unknown
+'H7K':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Auteuil South
+	:time_zone: Unknown
+'H7L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Rose
+	:time_zone: Unknown
+'H7M':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Vimont
+	:time_zone: Unknown
+'H7N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Laval-des-Rapides
+	:time_zone: Unknown
+'H7P':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Fabreville
+	:time_zone: Unknown
+'H7R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Laval-sur-le-Lac
+	:time_zone: Unknown
+'H7S':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Chomedey Northeast
+	:time_zone: Unknown
+'H7T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Chomedey Northwest
+	:time_zone: Unknown
+'H7V':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Chomedey East
+	:time_zone: Unknown
+'H7W':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Chomedey South
+	:time_zone: Unknown
+'H7X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Doroth̩e
+	:time_zone: Unknown
+'H7Y':
+	:state_code: QC
+	:state_name: Quebec
+	:city: �_les-Laval
+	:time_zone: Unknown
+'H8N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: LaSalle Northwest
+	:time_zone: Unknown
+'H8P':
+	:state_code: QC
+	:state_name: Quebec
+	:city: LaSalle Southeast
+	:time_zone: Unknown
+'H8R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Pierre
+	:time_zone: Unknown
+'H8S':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Lachine East
+	:time_zone: Unknown
+'H8T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Lachine West
+	:time_zone: Unknown
+'H8Y':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Roxboro
+	:time_zone: Unknown
+'H8Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Pierrefonds
+	:time_zone: Unknown
+'H9A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Dollard-Des- Ormeaux Northwest
+	:time_zone: Unknown
+'H9B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Dollard-Des- Ormeaux East
+	:time_zone: Unknown
+'H9C':
+	:state_code: QC
+	:state_name: Quebec
+	:city: L'�_le Bizard Northeast
+	:time_zone: Unknown
+'H9E':
+	:state_code: QC
+	:state_name: Quebec
+	:city: L'�_le-Bizard Southwest
+	:time_zone: Unknown
+'H9G':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Dollard-Des- Ormeaux Southwest
+	:time_zone: Unknown
+'H9H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Genevi̬ve
+	:time_zone: Unknown
+'H9J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Kirkland
+	:time_zone: Unknown
+'H9K':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Senneville
+	:time_zone: Unknown
+'H9P':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Dorval Outskirts
+	:time_zone: Unknown
+'H9R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Pointe-Claire
+	:time_zone: Unknown
+'H9S':
+	:state_code: QC
+	:state_name: Quebec
+	:city: L'�_le-Dorval
+	:time_zone: Unknown
+'H9W':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Beaconsfield
+	:time_zone: Unknown
+'H9X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Anne-De- Bellevue
+	:time_zone: Unknown
+'J0A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Centre-du- Qu̩bec-Sud
+	:time_zone: Unknown
+'J0B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Estrie-Est
+	:time_zone: Unknown
+'J0C':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Centre-du- Qu̩bec-Ouest
+	:time_zone: Unknown
+'J0E':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Estrie-Ouest
+	:time_zone: Unknown
+'J0G':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Bois-Francs-Nord
+	:time_zone: Unknown
+'J0H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Bois-Francs-Sud
+	:time_zone: Unknown
+'J0J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Mont̩r̩gie-Est
+	:time_zone: Unknown
+'J0K':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Lanaudi̬re-Nord
+	:time_zone: Unknown
+'J0L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Mont̩r̩gie-Nord
+	:time_zone: Unknown
+'J0M':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Nunavik
+	:time_zone: Unknown
+'J0N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: R̩gion d'Oka
+	:time_zone: Unknown
+'J0P':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Vaudreuil- Soulanges
+	:time_zone: Unknown
+'J0R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Lanaudi̬re-Sud
+	:time_zone: Unknown
+'J0S':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Mont̩r̩gie- Ouest
+	:time_zone: Unknown
+'J0T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Laurentides-Nord
+	:time_zone: Unknown
+'J0V':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Laurentides-Sud
+	:time_zone: Unknown
+'J0W':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Outaouais-Nord
+	:time_zone: Unknown
+'J0X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Outaouais-Sud
+	:time_zone: Unknown
+'J0Y':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Abitibi- T̩miscamingue- Est
+	:time_zone: Unknown
+'J0Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Abitibi- T̩miscamingue- Ouest
+	:time_zone: Unknown
+'J1A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Coaticook
+	:time_zone: Unknown
+'J1C':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Bromptonville
+	:time_zone: Unknown
+'J1E':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sherbrooke Northeast
+	:time_zone: Unknown
+'J1G':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sherbrooke East
+	:time_zone: Unknown
+'J1H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sherbrooke Central
+	:time_zone: Unknown
+'J1J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sherbrooke North
+	:time_zone: Unknown
+'J1K':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sherbrooke West
+	:time_zone: Unknown
+'J1L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sherbrooke Northwest
+	:time_zone: Unknown
+'J1M':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sherbrooke Southeast
+	:time_zone: Unknown
+'J1N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Rock Forest
+	:time_zone: Unknown
+'J1R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-��lie-d'Orford
+	:time_zone: Unknown
+'J1S':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Windsor
+	:time_zone: Unknown
+'J1T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Asbestos
+	:time_zone: Unknown
+'J1X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Magog
+	:time_zone: Unknown
+'J1Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Cyrille- De-Wendover
+	:time_zone: Unknown
+'J2A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Drummondville Southeast
+	:time_zone: Unknown
+'J2B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Drummondville South
+	:time_zone: Unknown
+'J2C':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Drummondville Central
+	:time_zone: Unknown
+'J2E':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Drummondville Northwest
+	:time_zone: Unknown
+'J2G':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Granby Central
+	:time_zone: Unknown
+'J2H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Granby East
+	:time_zone: Unknown
+'J2J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Granby West
+	:time_zone: Unknown
+'J2K':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Cowansville
+	:time_zone: Unknown
+'J2L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Bromont
+	:time_zone: Unknown
+'J2M':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Shefford
+	:time_zone: Unknown
+'J2N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Farnham
+	:time_zone: Unknown
+'J2R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Hyacinthe Northwest
+	:time_zone: Unknown
+'J2S':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Hyacinthe Southwest
+	:time_zone: Unknown
+'J2T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Hyacinthe East
+	:time_zone: Unknown
+'J2W':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Luc
+	:time_zone: Unknown
+'J2X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Jean- sur-Richelieu East
+	:time_zone: Unknown
+'J2Y':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Jean- sur-Richelieu West
+	:time_zone: Unknown
+'J3A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Jean- sur-Richelieu North
+	:time_zone: Unknown
+'J3B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Jean- sur-Richelieu Central
+	:time_zone: Unknown
+'J3E':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Julie
+	:time_zone: Unknown
+'J3G':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Beloeil West
+	:time_zone: Unknown
+'J3H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Beloeil East
+	:time_zone: Unknown
+'J3L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Chambly
+	:time_zone: Unknown
+'J3M':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Marieville
+	:time_zone: Unknown
+'J3N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Basile- Le-Grand
+	:time_zone: Unknown
+'J3P':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sorel Central
+	:time_zone: Unknown
+'J3R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sorel Southwest
+	:time_zone: Unknown
+'J3T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Nicolet
+	:time_zone: Unknown
+'J3V':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Bruno
+	:time_zone: Unknown
+'J3X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Varennes
+	:time_zone: Unknown
+'J3Y':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Hubert Central
+	:time_zone: Unknown
+'J3Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Hubert East
+	:time_zone: Unknown
+'J4B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Boucherville
+	:time_zone: Unknown
+'J4G':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Longueuil North
+	:time_zone: Unknown
+'J4H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Longueuil West
+	:time_zone: Unknown
+'J4J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Longueuil Central
+	:time_zone: Unknown
+'J4K':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Longueuil Southwest
+	:time_zone: Unknown
+'J4L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Longueuil Southeast
+	:time_zone: Unknown
+'J4M':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Longueuil East
+	:time_zone: Unknown
+'J4N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Longueuil Northeast
+	:time_zone: Unknown
+'J4P':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Lambert North
+	:time_zone: Unknown
+'J4R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Lambert Central
+	:time_zone: Unknown
+'J4S':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Lambert South
+	:time_zone: Unknown
+'J4T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Hubert West
+	:time_zone: Unknown
+'J4V':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Greenfield Park
+	:time_zone: Unknown
+'J4W':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Brossard Northwest
+	:time_zone: Unknown
+'J4X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Brossard Southwest
+	:time_zone: Unknown
+'J4Y':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Brossard South
+	:time_zone: Unknown
+'J4Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Brossard Northeast
+	:time_zone: Unknown
+'J5A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Constant
+	:time_zone: Unknown
+'J5B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Delson
+	:time_zone: Unknown
+'J5C':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Catherine
+	:time_zone: Unknown
+'J5J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Sophie
+	:time_zone: Unknown
+'J5K':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Colomban
+	:time_zone: Unknown
+'J5L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-J̩r̫me West
+	:time_zone: Unknown
+'J5M':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Lin- Laurentides
+	:time_zone: Unknown
+'J5R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: La Prairie
+	:time_zone: Unknown
+'J5T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Lavaltrie
+	:time_zone: Unknown
+'J5V':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Louiseville
+	:time_zone: Unknown
+'J5W':
+	:state_code: QC
+	:state_name: Quebec
+	:city: L'Assomption
+	:time_zone: Unknown
+'J5X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: L'��piphanie
+	:time_zone: Unknown
+'J5Y':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Repentigny Northeast
+	:time_zone: Unknown
+'J5Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Repentigny West
+	:time_zone: Unknown
+'J6A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Repentigny South
+	:time_zone: Unknown
+'J6E':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Joliette
+	:time_zone: Unknown
+'J6J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Ch��teauguay North
+	:time_zone: Unknown
+'J6K':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Ch��teauguay South
+	:time_zone: Unknown
+'J6N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Beauharnois
+	:time_zone: Unknown
+'J6R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Mercier
+	:time_zone: Unknown
+'J6S':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Salaberry-de- Valleyfield North
+	:time_zone: Unknown
+'J6T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Salaberry-de- Valleyfield South
+	:time_zone: Unknown
+'J6V':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Terrebonne East
+	:time_zone: Unknown
+'J6W':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Terrebonne Central
+	:time_zone: Unknown
+'J6X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Terrebonne Northwest
+	:time_zone: Unknown
+'J6Y':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Terrebonne Southwest
+	:time_zone: Unknown
+'J6Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Th̩r̬se- de-Blainville Northeast
+	:time_zone: Unknown
+'J7A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Th̩r̬se- de-Blainville East
+	:time_zone: Unknown
+'J7B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Th̩r̬se- de-Blainville North
+	:time_zone: Unknown
+'J7C':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Th̩r̬se- de-Blainville Northwest
+	:time_zone: Unknown
+'J7E':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Th̩r̬se- de-Blainville Central
+	:time_zone: Unknown
+'J7G':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Th̩r̬se- de-Blainville South
+	:time_zone: Unknown
+'J7H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Th̩r̬se- de-Blainville Southwest
+	:time_zone: Unknown
+'J7J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Mirabel Northeast
+	:time_zone: Unknown
+'J7K':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Mascouche Extremities
+	:time_zone: Unknown
+'J7L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Mascouche Central
+	:time_zone: Unknown
+'J7M':
+	:state_code: QC
+	:state_name: Quebec
+	:city: La Plaine
+	:time_zone: Unknown
+'J7N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Mirabel Southwest
+	:time_zone: Unknown
+'J7P':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Eustache Northeast
+	:time_zone: Unknown
+'J7R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Eustache Southwest
+	:time_zone: Unknown
+'J7T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Vaudreuil- Dorion RCM
+	:time_zone: Unknown
+'J7V':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Vaudreuil- Dorion
+	:time_zone: Unknown
+'J7W':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Pincourt
+	:time_zone: Unknown
+'J7X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Valleyfield
+	:time_zone: Unknown
+'J7Y':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-J̩r̫me North
+	:time_zone: Unknown
+'J7Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-J̩r̫me Southeast
+	:time_zone: Unknown
+'J8A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Saint-Hippolyte
+	:time_zone: Unknown
+'J8B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Ad̬le
+	:time_zone: Unknown
+'J8C':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Sainte-Agathe- Des-Monts
+	:time_zone: Unknown
+'J8E':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Mont-Tremblant
+	:time_zone: Unknown
+'J8G':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Chatham
+	:time_zone: Unknown
+'J8H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Lachute
+	:time_zone: Unknown
+'J8L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Buckingham
+	:time_zone: Unknown
+'J8M':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Masson-Angers
+	:time_zone: Unknown
+'J8N':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Val-des-Monts
+	:time_zone: Unknown
+'J8P':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Gatineau Southeast
+	:time_zone: Unknown
+'J8R':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Gatineau Northeast
+	:time_zone: Unknown
+'J8T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Gatineau Southwest
+	:time_zone: Unknown
+'J8V':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Gatineau Northwest
+	:time_zone: Unknown
+'J8X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Hull Southeast
+	:time_zone: Unknown
+'J8Y':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Hull Central
+	:time_zone: Unknown
+'J8Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Hull North
+	:time_zone: Unknown
+'J9A':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Hull Southwest
+	:time_zone: Unknown
+'J9B':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Chelsea
+	:time_zone: Unknown
+'J9E':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Maniwaki
+	:time_zone: Unknown
+'J9H':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Aylmer South
+	:time_zone: Unknown
+'J9J':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Aylmer North
+	:time_zone: Unknown
+'J9L':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Mont-Laurier
+	:time_zone: Unknown
+'J9P':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Val-d'Or
+	:time_zone: Unknown
+'J9T':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Amos
+	:time_zone: Unknown
+'J9V':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Ville-Marie
+	:time_zone: Unknown
+'J9X':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Rouyn-Noranda South
+	:time_zone: Unknown
+'J9Y':
+	:state_code: QC
+	:state_name: Quebec
+	:city: Rouyn-Noranda North
+	:time_zone: Unknown
+'J9Z':
+	:state_code: QC
+	:state_name: Quebec
+	:city: La Sarre
+	:time_zone: Unknown
+'S0A':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Yorkton Region
+	:time_zone: Unknown
+'S0C':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Southeastern Saskatchewan
+	:time_zone: Unknown
+'S0E':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Eastern Saskatchewan
+	:time_zone: Unknown
+'S0G':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: South Central Saskatchewan
+	:time_zone: Unknown
+'S0H':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Southern Saskatchewan
+	:time_zone: Unknown
+'S0J':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Northern Saskatchewan
+	:time_zone: Unknown
+'S0K':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Central Saskatchewan
+	:time_zone: Unknown
+'S0L':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Western Saskatchewan
+	:time_zone: Unknown
+'S0M':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Northwestern Saskatchewan
+	:time_zone: Unknown
+'S0N':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Southwestern Saskatchewan
+	:time_zone: Unknown
+'S0P':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Northeastern Saskatchewan
+	:time_zone: Unknown
+'S2V':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Buena Vista
+	:time_zone: Unknown
+'S3N':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Yorkton
+	:time_zone: Unknown
+'S4A':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Estevan
+	:time_zone: Unknown
+'S4H':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Weyburn
+	:time_zone: Unknown
+'S4L':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Regina East
+	:time_zone: Unknown
+'S4N':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Regina Northeast and East Central
+	:time_zone: Unknown
+'S4P':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Regina Central
+	:time_zone: Unknown
+'S4R':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Regina North Central
+	:time_zone: Unknown
+'S4S':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Regina South Saskatchewan Provincial Government
+	:time_zone: Unknown
+'S4T':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Regina West
+	:time_zone: Unknown
+'S4V':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Regina Southeast
+	:time_zone: Unknown
+'S4W':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Regina Southwest
+	:time_zone: Unknown
+'S4X':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Regina Northwest
+	:time_zone: Unknown
+'S4Y':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Regina Outer Northwest
+	:time_zone: Unknown
+'S4Z':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Regina Northeast
+	:time_zone: Unknown
+'S6H':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Moose Jaw Southeast
+	:time_zone: Unknown
+'S6J':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Moose Jaw Northeast
+	:time_zone: Unknown
+'S6K':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Moose Jaw West
+	:time_zone: Unknown
+'S6V':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Prince Albert Central
+	:time_zone: Unknown
+'S6W':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Prince Albert Southwest
+	:time_zone: Unknown
+'S6X':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Prince Albert East
+	:time_zone: Unknown
+'S7H':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Saskatoon East Central
+	:time_zone: Unknown
+'S7J':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Saskatoon South Central
+	:time_zone: Unknown
+'S7K':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Saskatoon North Central
+	:time_zone: Unknown
+'S7L':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Saskatoon West
+	:time_zone: Unknown
+'S7M':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Saskatoon Southwest
+	:time_zone: Unknown
+'S7N':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Saskatoon Northeast Central
+	:time_zone: Unknown
+'S7P':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Saskatoon North
+	:time_zone: Unknown
+'S7R':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Saskatoon Northwest
+	:time_zone: Unknown
+'S7S':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Saskatoon Northeast
+	:time_zone: Unknown
+'S7T':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Saskatoon South
+	:time_zone: Unknown
+'S7V':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Saskatoon Southeast
+	:time_zone: Unknown
+'S7W':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Saskatoon
+	:time_zone: Unknown
+'S9A':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: North Battleford
+	:time_zone: Unknown
+'S9H':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Swift Current
+	:time_zone: Unknown
+'S9V':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Lloydminster
+	:time_zone: Unknown
+'S9X':
+	:state_code: SK
+	:state_name: Saskatchewan
+	:city: Meadow Lake
+	:time_zone: Unknown
+'Y0A':
+	:state_code: YT
+	:state_name: Yukon
+	:city: Southeastern Yukon
+	:time_zone: Unknown
+'Y0B':
+	:state_code: YT
+	:state_name: Yukon
+	:city: Central Yukon
+	:time_zone: Unknown
+'Y1A':
+	:state_code: YT
+	:state_name: Yukon
+	:city: Whitehorse
+	:time_zone: Unknown
