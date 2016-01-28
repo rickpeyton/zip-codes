@@ -2,6 +2,10 @@
 
 Simple gem to get city, state, and time zone for a given zip code. It has a yaml database bundled with it, so you need several mb of memory for the whole hash.
 
+## January 27, 2016
+
+Adding Canada support
+
 ## Installation
 
 Add this line to your application's Gemfile:
